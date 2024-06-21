@@ -8,7 +8,7 @@
 - [CMU TinyMPC](https://tinympc.org/)
 
 #### 视觉
-- [kalibr](https://github.com/ethz-asl/kalibr)
+- [Kalibr](https://github.com/ethz-asl/kalibr)
 - [Basalt](https://github.com/VladyslavUsenko/basalt-mirror)
 ### 人形/四足
 - [CMU quad-sdk](https://github.com/robomechanics/quad-sdk)
