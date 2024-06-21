@@ -1,5 +1,7 @@
 # TechResources
-
+## 电机
+- [SimpleFOClibrary](https://github.com/simplefoc/Arduino-FOC)
+- [moteus](https://github.com/mjbots/moteus)
 ## 机器人
 ### 人形/四足
 - [CMU quad-sdk](https://github.com/robomechanics/quad-sdk)
