@@ -13,6 +13,7 @@
 ### 人形/四足
 - [CMU quad-sdk](https://github.com/robomechanics/quad-sdk)
 - [MIT Cheetah](https://github.com/mit-biomimetics/Cheetah-Software)
+- [Spot Micro Quadruped Project](https://github.com/mike4192/spotMicro)
 - [OCS2 Toolbox](https://github.com/leggedrobotics/ocs2)
 #### 状态估计
 - [IHMC Humanoid Robotics Lectures: **State Estimation**](https://www.youtube.com/watch?v=iaoNSOy1TL0&list=PLt7_h2sMj9b_FcpsgPyM0Jac-Qumgh3qX&pp=iAQB)
