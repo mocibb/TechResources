@@ -6,6 +6,9 @@
 ### 通用
 #### 控制
 - [CMU TinyMPC](https://tinympc.org/)
+
+#### 视觉
+- [kalibr](https://github.com/ethz-asl/kalibr)
 ### 人形/四足
 - [CMU quad-sdk](https://github.com/robomechanics/quad-sdk)
 - [MIT Cheetah](https://github.com/mit-biomimetics/Cheetah-Software)
