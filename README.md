@@ -1,6 +1,7 @@
 # TechResources
 ## 电机
 - [SimpleFOClibrary](https://github.com/simplefoc/Arduino-FOC)
+- [Odrive](https://github.com/odriverobotics/ODrive)
 - [moteus](https://github.com/mjbots/moteus)
 ## 机器人 
 ### 通用
