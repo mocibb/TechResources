@@ -1,7 +1,7 @@
 # TechResources
 
 ## 机器人
-### 人形
+### 人形/四足
 - [CMU quad-sdk](https://github.com/robomechanics/quad-sdk)
 - [MIT Cheetah](https://github.com/mit-biomimetics/Cheetah-Software)
 #### 状态估计
