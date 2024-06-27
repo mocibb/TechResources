@@ -20,9 +20,7 @@
 - [IHMC Humanoid Robotics Lectures: **State Estimation**](https://www.youtube.com/watch?v=iaoNSOy1TL0&list=PLt7_h2sMj9b_FcpsgPyM0Jac-Qumgh3qX&pp=iAQB)
 - [invariant-ekf](https://github.com/RossHartley/invariant-ekf)
 - [bipedal-locomotion-framework](https://github.com/ami-iit/bipedal-locomotion-framework)
-- [Pronto](https://github.com/ori-drs/pronto)
-- [Cerberus2.0](https://github.com/ShuoYangRobotics/Cerberus2.0)
-- [InEKF](https://github.com/zha0ming1e/InEKF)
+- [EKF Comparison](https://github.com/ami-iit/paper_ramadoss-2022-iros-humanoid-base-estimation)
 
 #### 仿真
 - [Hector](https://github.com/DRCL-USC/Hector_Simulation)
