@@ -6,6 +6,10 @@
 - [SageMath Graph Theory](https://doc.sagemath.org/html/en/reference/graphs/index.html)
 - [Gephi](https://gephi.org/)
 - [GraphTea](http://graphtheorysoftware.com/)
+
+# 计算机
+## 算法
+- [Algorithms & data structures project](https://github.com/williamfiset/Algorithms)
 ## 电机
 - [SimpleFOClibrary](https://github.com/simplefoc/Arduino-FOC)
 - [Odrive](https://github.com/odriverobotics/ODrive)
