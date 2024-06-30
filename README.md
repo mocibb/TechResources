@@ -1,4 +1,10 @@
 # TechResources
+# 数学
+## 图论
+- [NetworkX](https://networkx.org/)
+- [SageMath Graph Theory](https://doc.sagemath.org/html/en/reference/graphs/index.html)
+- [Gephi](https://gephi.org/)
+- [GraphTea](http://graphtheorysoftware.com/)
 ## 电机
 - [SimpleFOClibrary](https://github.com/simplefoc/Arduino-FOC)
 - [Odrive](https://github.com/odriverobotics/ODrive)
