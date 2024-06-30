@@ -1,5 +1,6 @@
 # TechResources
 # 数学
+- [Rossant's awesome-math](https://github.com/rossant/awesome-math)
 ## 图论
 - [NetworkX](https://networkx.org/)
 - [SageMath Graph Theory](https://doc.sagemath.org/html/en/reference/graphs/index.html)
