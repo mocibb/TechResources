@@ -3,6 +3,7 @@
 - [Rossant's awesome-math](https://github.com/rossant/awesome-math)
 - [Learn to Learn](https://github.com/nbro/understanding-math)
 ## 图论
+- [谱图论](http://www.cs.yale.edu/homes/spielman/462/462schedule.html)
 - [NetworkX](https://networkx.org/)
 - [SageMath Graph Theory](https://doc.sagemath.org/html/en/reference/graphs/index.html)
 - [Gephi](https://gephi.org/)
@@ -11,6 +12,7 @@
 # 计算机
 ## 算法
 - [Algorithms & data structures project](https://github.com/williamfiset/Algorithms)
+- [The Modern Algorithmic Toolbox](https://web.stanford.edu/class/cs168/)
 ## 电机
 - [SimpleFOClibrary](https://github.com/simplefoc/Arduino-FOC)
 - [Odrive](https://github.com/odriverobotics/ODrive)
