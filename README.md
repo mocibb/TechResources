@@ -52,6 +52,8 @@
 - [Foundations of Deep Learning](http://www.cs.umd.edu/class/spring2024/cmsc720/)
 ## 有限元
 - [FEniCS](https://fenicsproject.org/)
+## 软件无线电
+- [Software Defined Radio using MATLAB & Simulink and the RTL-SDR](https://www.desktopsdr.com/)
 ## 控制
 - [Control Tutorials](https://ctms.engin.umich.edu/CTMS/index.php?aux=Home)
 - [CMU TinyMPC](https://tinympc.org/)
