@@ -50,6 +50,7 @@
 # 应用科学
 ## AI
 - [State-of-the-art result for all Machine Learning Problems](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems)
+- [data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
 ### 课程
 - [fast.ai](https://www.fast.ai/)
 - [MIT 6.S191](https://github.com/MITDeepLearning/introtodeeplearning)
