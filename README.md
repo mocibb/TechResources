@@ -43,10 +43,6 @@
 - [Algorithms & data structures project](https://github.com/williamfiset/Algorithms)
 - [The Modern Algorithmic Toolbox](https://web.stanford.edu/class/cs168/)
 - [Project Euler](https://projecteuler.net/archives)
-## 电机
-- [SimpleFOClibrary](https://github.com/simplefoc/Arduino-FOC)
-- [Odrive](https://github.com/odriverobotics/ODrive)
-- [moteus](https://github.com/mjbots/moteus)
 # 应用科学
 ## AI
 - [State-of-the-art result for all Machine Learning Problems](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems)
@@ -79,6 +75,10 @@
 - [Introduction to Aerial Robotics: Online Textbook](https://www.autonomousrobotslab.com/online-textbook.html)
 - [MIT 16.333](https://ocw.mit.edu/courses/16-333-aircraft-stability-and-control-fall-2004/)
 ## 机器人 
+### 电机
+- [SimpleFOClibrary](https://github.com/simplefoc/Arduino-FOC)
+- [Odrive](https://github.com/odriverobotics/ODrive)
+- [moteus](https://github.com/mjbots/moteus)
 ### 人形/四足
 - [CMU quad-sdk](https://github.com/robomechanics/quad-sdk)
 - [MIT Cheetah](https://github.com/mit-biomimetics/Cheetah-Software)
