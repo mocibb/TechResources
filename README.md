@@ -15,6 +15,12 @@
 - [NetworkX](https://networkx.org/)
 - [SageMath Graph Theory](https://doc.sagemath.org/html/en/reference/graphs/index.html)
 - [GraphTea](http://graphtheorysoftware.com/)
+## 课程
+- [DDG2019](http://wordpress.discretization.de/ddg2019)
+- [Riemannian Geometry](https://bimsa.net/activity/riemannian/)
+- [One-Dimensional Computational Topology](https://jeffe.cs.illinois.edu/teaching/comptop/2023/)
+- [Lie groups and Lie algebras](http://jde27.uk/lgla/info.html)
+
 # 计算机
 - [cs自学指南](https://csdiy.wiki/)
 - [Medium](https://medium.com/)
