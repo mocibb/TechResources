@@ -31,6 +31,7 @@
 - [The Theoretical Minimum](https://theoreticalminimum.com/)
 - [How to become a GOOD Theoretical Physicist](https://www.goodtheorist.science/index.html)
 # 计算机
+- [Open Source Society University](https://github.com/ossu/computer-science)
 - [cs自学指南](https://csdiy.wiki/)
 - [Medium](https://medium.com/)
 - [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
@@ -58,6 +59,7 @@
 ## 控制
 - [Control Tutorials](https://ctms.engin.umich.edu/CTMS/index.php?aux=Home)
 - [CMU TinyMPC](https://tinympc.org/)
+- []()
 ## 视觉
 - [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
 - [Kalibr](https://github.com/ethz-asl/kalibr)
