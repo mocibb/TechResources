@@ -64,14 +64,15 @@
 ## 控制
 - [Control Tutorials](https://ctms.engin.umich.edu/CTMS/index.php?aux=Home)
 - [CMU TinyMPC](https://tinympc.org/)
-- []()
+- [Model Predictive Control](https://cse.lab.imtlucca.it/~bemporad/mpc_course.html)
 ## 视觉
 - [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
 - [Kalibr](https://github.com/ethz-asl/kalibr)
+- [PoseLib](https://github.com/PoseLib/PoseLib)
 - [Basalt](https://github.com/VladyslavUsenko/basalt-mirror)
 ## 状态估计
 - [kalmanif](https://github.com/artivis/kalmanif)
-- [](https://github.com/rlabbe/filterpy)
+- [FilterPy](https://github.com/rlabbe/filterpy)
 - [PX4' EKF](https://github.com/PX4/PX4-Autopilot/tree/main/src/modules/ekf2/EKF/python)
 ## 无人机
 - [Introduction to Aerial Robotics: Online Textbook](https://www.autonomousrobotslab.com/online-textbook.html)
