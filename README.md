@@ -65,6 +65,8 @@
 ## 状态估计
 - [kalmanif](https://github.com/artivis/kalmanif)
 - [PX4' EKF](https://github.com/PX4/PX4-Autopilot/tree/main/src/modules/ekf2/EKF/python)
+## 无人机
+- [Introduction to Aerial Robotics: Online Textbook](https://www.autonomousrobotslab.com/online-textbook.html)
 ## 机器人 
 ### 人形/四足
 - [CMU quad-sdk](https://github.com/robomechanics/quad-sdk)
