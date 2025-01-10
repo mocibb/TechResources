@@ -59,6 +59,7 @@
 - [Control Tutorials](https://ctms.engin.umich.edu/CTMS/index.php?aux=Home)
 - [CMU TinyMPC](https://tinympc.org/)
 ## 视觉
+- [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
 - [Kalibr](https://github.com/ethz-asl/kalibr)
 - [Basalt](https://github.com/VladyslavUsenko/basalt-mirror)
 ## 状态估计
