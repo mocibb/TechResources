@@ -10,6 +10,7 @@
 
 # 计算机
 - [cs自学指南](https://csdiy.wiki/)
+- [Medium](https://medium.com/)
 ## 工具
 - [Modern Unix](https://github.com/ibraheemdev/modern-unix)
 ## 算法
