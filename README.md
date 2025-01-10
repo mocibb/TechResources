@@ -9,6 +9,7 @@
 - [GraphTea](http://graphtheorysoftware.com/)
 
 # 计算机
+- [cs自学指南](https://csdiy.wiki/)
 ## 工具
 - [Modern Unix](https://github.com/ibraheemdev/modern-unix)
 ## 算法
