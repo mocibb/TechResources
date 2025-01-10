@@ -31,6 +31,7 @@
 ## 算法
 - [Algorithms & data structures project](https://github.com/williamfiset/Algorithms)
 - [The Modern Algorithmic Toolbox](https://web.stanford.edu/class/cs168/)
+- [Project Euler](https://projecteuler.net/archives)
 ## 电机
 - [SimpleFOClibrary](https://github.com/simplefoc/Arduino-FOC)
 - [Odrive](https://github.com/odriverobotics/ODrive)
