@@ -33,6 +33,7 @@
 # 计算机
 - [cs自学指南](https://csdiy.wiki/)
 - [Medium](https://medium.com/)
+- [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
 ## 工具
 - [Modern Unix](https://github.com/ibraheemdev/modern-unix)
 - [Compiler Explorer](https://compiler-explorer.com/)
