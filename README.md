@@ -49,6 +49,10 @@
 ### 课程
 - [fast.ai](https://www.fast.ai/)
 - [MIT 6.S191](https://github.com/MITDeepLearning/introtodeeplearning)
+- [CS231n: Deep Learning for Computer Vision](https://cs231n.stanford.edu/)
+- [CS224N: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/index.html)
+- [CS224W: Machine Learning with Graphs](http://web.stanford.edu/class/cs224w/)
+- [UCB Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/)
 - [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl)
 - [Foundations of Deep Learning](http://www.cs.umd.edu/class/spring2024/cmsc720/)
 ## 有限元
