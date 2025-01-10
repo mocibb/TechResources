@@ -8,6 +8,8 @@
 - [Sage](https://doc.sagemath.org/html/en/reference/index.html)
 - [SageManifolds](https://sagemanifolds.obspm.fr/examples.html)
 - [M2](https://macaulay2.com/)
+## 拓扑和几何
+- [Jeff Weeks’ Topology and Geometry Software](https://www.geometrygames.org/)
 ## 图论
 - [谱图论](http://www.cs.yale.edu/homes/spielman/462/462schedule.html)
 - [NetworkX](https://networkx.org/)
