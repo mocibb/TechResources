@@ -48,6 +48,7 @@
 # 应用科学
 ## AI
 ### 课程
+- [fast.ai](https://www.fast.ai/)
 - [Foundations of Deep Learning](http://www.cs.umd.edu/class/spring2024/cmsc720/)
 ## 有限元
 - [FEniCS](https://fenicsproject.org/)
