@@ -33,10 +33,10 @@
 ## AI
 ### 课程
 - [Foundations of Deep Learning](http://www.cs.umd.edu/class/spring2024/cmsc720/)
+## 有限元
+- [FEniCS](https://fenicsproject.org/)
 ## 机器人 
 ### 通用
-#### 有限元
-- [FEniCS](https://fenicsproject.org/)
 #### 控制
 - [Control Tutorials](https://ctms.engin.umich.edu/CTMS/index.php?aux=Home)
 - [CMU TinyMPC](https://tinympc.org/)
