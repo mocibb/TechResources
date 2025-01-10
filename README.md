@@ -85,7 +85,7 @@
 - [Spot Micro Quadruped Project](https://github.com/mike4192/spotMicro)
 - [OCS2 Toolbox](https://github.com/leggedrobotics/ocs2)
 #### 状态估计
-- [bipedal-locomotion-framework](https://github.com/ami-iit/bipedal-locomotion-framework)
+- [invariant-ekf](https://github.com/RossHartley/invariant-ekf)
 - [EKF Comparison](https://github.com/ami-iit/paper_ramadoss-2022-iros-humanoid-base-estimation)
 #### 仿真
 - [Webots](https://cyberbotics.com/)
