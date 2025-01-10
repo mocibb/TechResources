@@ -76,6 +76,7 @@
 - [PX4' EKF](https://github.com/PX4/PX4-Autopilot/tree/main/src/modules/ekf2/EKF/python)
 ## 无人机
 - [Introduction to Aerial Robotics: Online Textbook](https://www.autonomousrobotslab.com/online-textbook.html)
+- [mit 16.333](https://ocw.mit.edu/courses/16-333-aircraft-stability-and-control-fall-2004/)
 ## 机器人 
 ### 人形/四足
 - [CMU quad-sdk](https://github.com/robomechanics/quad-sdk)
