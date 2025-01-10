@@ -51,6 +51,7 @@
 ## AI
 ### 课程
 - [fast.ai](https://www.fast.ai/)
+- [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl)
 - [Foundations of Deep Learning](http://www.cs.umd.edu/class/spring2024/cmsc720/)
 ## 有限元
 - [FEniCS](https://fenicsproject.org/)
