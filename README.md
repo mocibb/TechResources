@@ -35,25 +35,23 @@
 - [Foundations of Deep Learning](http://www.cs.umd.edu/class/spring2024/cmsc720/)
 ## 有限元
 - [FEniCS](https://fenicsproject.org/)
-## 机器人 
-### 通用
-#### 控制
+## 控制
 - [Control Tutorials](https://ctms.engin.umich.edu/CTMS/index.php?aux=Home)
 - [CMU TinyMPC](https://tinympc.org/)
-
-#### 视觉
+## 视觉
 - [Kalibr](https://github.com/ethz-asl/kalibr)
 - [Basalt](https://github.com/VladyslavUsenko/basalt-mirror)
+## 状态估计
+- [invariant-ekf](https://github.com/RossHartley/invariant-ekf)
+## 机器人 
 ### 人形/四足
 - [CMU quad-sdk](https://github.com/robomechanics/quad-sdk)
 - [MIT Cheetah](https://github.com/mit-biomimetics/Cheetah-Software)
 - [Spot Micro Quadruped Project](https://github.com/mike4192/spotMicro)
 - [OCS2 Toolbox](https://github.com/leggedrobotics/ocs2)
 #### 状态估计
-- [invariant-ekf](https://github.com/RossHartley/invariant-ekf)
 - [bipedal-locomotion-framework](https://github.com/ami-iit/bipedal-locomotion-framework)
 - [EKF Comparison](https://github.com/ami-iit/paper_ramadoss-2022-iros-humanoid-base-estimation)
-
 #### 仿真
 - [Webots](https://cyberbotics.com/)
 - [Hector](https://github.com/DRCL-USC/Hector_Simulation)
