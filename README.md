@@ -30,6 +30,9 @@
 - [Odrive](https://github.com/odriverobotics/ODrive)
 - [moteus](https://github.com/mjbots/moteus)
 # 应用科学
+## AI
+### 课程
+- [Foundations of Deep Learning](http://www.cs.umd.edu/class/spring2024/cmsc720/)
 ## 机器人 
 ### 通用
 #### 有限元
