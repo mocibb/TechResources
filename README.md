@@ -9,6 +9,8 @@
 - [GraphTea](http://graphtheorysoftware.com/)
 
 # 计算机
+## 工具
+- [Modern Unix](https://github.com/ibraheemdev/modern-unix)
 ## 算法
 - [Algorithms & data structures project](https://github.com/williamfiset/Algorithms)
 - [The Modern Algorithmic Toolbox](https://web.stanford.edu/class/cs168/)
