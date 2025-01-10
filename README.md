@@ -49,6 +49,7 @@
 - [moteus](https://github.com/mjbots/moteus)
 # 应用科学
 ## AI
+- [State-of-the-art result for all Machine Learning Problems](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems)
 ### 课程
 - [fast.ai](https://www.fast.ai/)
 - [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl)
