@@ -63,6 +63,7 @@
 - [rtl_433](https://triq.org/rtl_433/)
 - [RTL-SDR.com](https://www.rtl-sdr.com/)
 - [Complex To Real](https://complextoreal.com/tutorials/)
+- [PySDR](https://pysdr.org/)
 ## 控制
 - [Control Tutorials](https://ctms.engin.umich.edu/CTMS/index.php?aux=Home)
 - [CMU TinyMPC](https://tinympc.org/)
