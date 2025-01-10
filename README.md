@@ -13,6 +13,8 @@
 - [Medium](https://medium.com/)
 ## 工具
 - [Modern Unix](https://github.com/ibraheemdev/modern-unix)
+- [Compiler Explorer](https://compiler-explorer.com/)
+- [CoCalc](https://cocalc.com))
 ## 算法
 - [Algorithms & data structures project](https://github.com/williamfiset/Algorithms)
 - [The Modern Algorithmic Toolbox](https://web.stanford.edu/class/cs168/)
