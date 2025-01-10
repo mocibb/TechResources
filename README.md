@@ -52,6 +52,7 @@
 - [State-of-the-art result for all Machine Learning Problems](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems)
 ### 课程
 - [fast.ai](https://www.fast.ai/)
+- [MIT 6.S191](https://github.com/MITDeepLearning/introtodeeplearning)
 - [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl)
 - [Foundations of Deep Learning](http://www.cs.umd.edu/class/spring2024/cmsc720/)
 ## 有限元
@@ -69,6 +70,7 @@
 - [Basalt](https://github.com/VladyslavUsenko/basalt-mirror)
 ## 状态估计
 - [kalmanif](https://github.com/artivis/kalmanif)
+- [](https://github.com/rlabbe/filterpy)
 - [PX4' EKF](https://github.com/PX4/PX4-Autopilot/tree/main/src/modules/ekf2/EKF/python)
 ## 无人机
 - [Introduction to Aerial Robotics: Online Textbook](https://www.autonomousrobotslab.com/online-textbook.html)
