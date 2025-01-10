@@ -21,6 +21,10 @@
 - [One-Dimensional Computational Topology](https://jeffe.cs.illinois.edu/teaching/comptop/2023/)
 - [Lie groups and Lie algebras](http://jde27.uk/lgla/info.html)
 
+# 物理
+- [The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu/info/)
+- [The Theoretical Minimum](https://theoreticalminimum.com/)
+- [How to become a GOOD Theoretical Physicist](https://www.goodtheorist.science/index.html)
 # 计算机
 - [cs自学指南](https://csdiy.wiki/)
 - [Medium](https://medium.com/)
