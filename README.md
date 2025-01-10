@@ -64,6 +64,7 @@
 ## 控制
 - [Control Tutorials](https://ctms.engin.umich.edu/CTMS/index.php?aux=Home)
 - [CMU TinyMPC](https://tinympc.org/)
+- MIT Feedback Control [1](https://ocw.mit.edu/courses/16-30-feedback-control-systems-fall-2010/) [2](https://github.com/Parrot-Developers/RollingSpiderEdu)
 - [Model Predictive Control](https://cse.lab.imtlucca.it/~bemporad/mpc_course.html)
 ## 视觉
 - [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
