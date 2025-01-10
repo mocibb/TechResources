@@ -22,7 +22,7 @@
 - [Lie groups and Lie algebras](http://jde27.uk/lgla/info.html)
 - [Topology and Groups](http://www.homepages.ucl.ac.uk/~ucahjde/tg/html/index.html)
 - [The Geometry of Differential Forms](http://sites.science.oregonstate.edu/physics/coursewikis/GDF/)
-- MIT Introduction to Numerical Methods[1](https://ocw.mit.edu/courses/18-335j-introduction-to-numerical-methods-spring-2019/)[2](https://github.com/mitmath/18335)
+- MIT Introduction to Numerical Methods[1](https://ocw.mit.edu/courses/18-335j-introduction-to-numerical-methods-spring-2019/) [2](https://github.com/mitmath/18335)
 
 # 物理
 - [The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu/info/)
