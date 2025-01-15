@@ -64,6 +64,9 @@
 - [RTL-SDR.com](https://www.rtl-sdr.com/)
 - [Complex To Real](https://complextoreal.com/tutorials/)
 - [PySDR](https://pysdr.org/)
+## 音频
+- []()
+- [Fundamentals of Music Processing](https://github.com/meinardmueller/libfmp)
 ## 控制
 - [Control Tutorials](https://ctms.engin.umich.edu/CTMS/index.php?aux=Home)
 - [CMU TinyMPC](https://tinympc.org/)
