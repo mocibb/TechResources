@@ -35,6 +35,7 @@
 # 计算机
 - [Open Source Society University](https://github.com/ossu/computer-science)
 - [cs自学指南](https://csdiy.wiki/)
+- [Awesome CS Courses](https://github.com/prakhar1989/awesome-courses)
 - [Medium](https://medium.com/)
 - [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
 ## 工具
@@ -59,7 +60,10 @@
 - [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl)
 - [Foundations of Deep Learning](http://www.cs.umd.edu/class/spring2024/cmsc720/)
 ## 数值优化
-- 凸优化 [1](https://stanford.edu/class/ee364a/lectures.html)[2](http://stanford.edu/class/ee364b/lectures.html)
+- 凸优化 [1](https://stanford.edu/class/ee364a/lectures.html) [2](http://stanford.edu/class/ee364b/lectures.html)
+- [MOSEK Modeling Cookbook](https://docs.mosek.com/modeling-cookbook/index.html)
+- [JuMPTutorials.jl](https://github.com/jump-dev/JuMPTutorials.jl)
+- 
 ## 有限元
 - [FEniCS](https://fenicsproject.org/)
 ## 软件无线电
