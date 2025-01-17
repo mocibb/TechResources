@@ -52,6 +52,7 @@
 - [CS231n: Deep Learning for Computer Vision](https://cs231n.stanford.edu/)
 - [CS224N: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/index.html)
 - [CS224W: Machine Learning with Graphs](http://web.stanford.edu/class/cs224w/)
+- [Efficient Deep Learning Computing](https://efficientml.ai)
 - [UCB Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/)
 - [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl)
 - [Foundations of Deep Learning](http://www.cs.umd.edu/class/spring2024/cmsc720/)
