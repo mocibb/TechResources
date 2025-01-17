@@ -58,6 +58,8 @@
 - [UCB Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/)
 - [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl)
 - [Foundations of Deep Learning](http://www.cs.umd.edu/class/spring2024/cmsc720/)
+## 数值优化
+- 凸优化 [1](https://stanford.edu/class/ee364a/lectures.html)[2](http://stanford.edu/class/ee364b/lectures.html)
 ## 有限元
 - [FEniCS](https://fenicsproject.org/)
 ## 软件无线电
@@ -68,7 +70,7 @@
 - [Complex To Real](https://complextoreal.com/tutorials/)
 - [PySDR](https://pysdr.org/)
 ## 音频
-- []()
+- [Audio Signal Processing for Music Applications](https://www.coursera.org/learn/audio-signal-processing)
 - [Fundamentals of Music Processing](https://github.com/meinardmueller/libfmp)
 ## 控制
 - [Control Tutorials](https://ctms.engin.umich.edu/CTMS/index.php?aux=Home)
