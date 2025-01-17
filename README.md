@@ -1,4 +1,6 @@
 # TechResources
+![image](https://github.com/user-attachments/assets/1c3613ee-6642-49a1-884f-0ce51e4e6969)
+
 # 数学
 - [Rossant's awesome-math](https://github.com/rossant/awesome-math)
 - [Learn to Learn](https://github.com/nbro/understanding-math)
