@@ -63,7 +63,8 @@
 - 凸优化 [1](https://stanford.edu/class/ee364a/lectures.html) [2](http://stanford.edu/class/ee364b/lectures.html)
 - [MOSEK Modeling Cookbook](https://docs.mosek.com/modeling-cookbook/index.html)
 - [JuMPTutorials.jl](https://github.com/jump-dev/JuMPTutorials.jl)
-- 
+- [Awesome Optimization Courses](https://github.com/ebrahimpichka/awesome-optimization)
+- [Awesome Scientific Computing](https://github.com/nschloe/awesome-scientific-computing)
 ## 有限元
 - [FEniCS](https://fenicsproject.org/)
 ## 软件无线电
