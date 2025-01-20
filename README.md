@@ -38,6 +38,7 @@
 - [Awesome CS Courses](https://github.com/prakhar1989/awesome-courses)
 - [Medium](https://medium.com/)
 - [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
+- [Build your own X](https://github.com/codecrafters-io/build-your-own-x)
 ## 工具
 - [Modern Unix](https://github.com/ibraheemdev/modern-unix)
 - [Compiler Explorer](https://compiler-explorer.com/)
