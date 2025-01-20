@@ -88,6 +88,7 @@
 - [Kalibr](https://github.com/ethz-asl/kalibr)
 - [PoseLib](https://github.com/PoseLib/PoseLib)
 - [Basalt](https://github.com/VladyslavUsenko/basalt-mirror)
+- [Kornia](https://kornia.readthedocs.io/en/latest/index.html)
 ## 状态估计
 - [kalmanif](https://github.com/artivis/kalmanif)
 - [FilterPy](https://github.com/rlabbe/filterpy)
