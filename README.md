@@ -6,7 +6,7 @@
 - [Learn to Learn](https://github.com/nbro/understanding-math)
 - [Quanta Magazine](https://www.quantamagazine.org/mathematics/)
 ## 数学软件
-- Wolfram [Wolfram Alpha](https://www.wolframalpha.com/) [Demonstrations](https://demonstrations.wolfram.com/)
+- Wolfram [Alpha](https://www.wolframalpha.com/) [Demonstrations](https://demonstrations.wolfram.com/)
 - [Sage](https://doc.sagemath.org/html/en/reference/index.html)
 - [SageManifolds](https://sagemanifolds.obspm.fr/examples.html)
 - [M2](https://macaulay2.com/)
