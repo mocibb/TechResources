@@ -7,7 +7,7 @@
 - [Quanta Magazine](https://www.quantamagazine.org/mathematics/)
 ## 数学软件
 - Wolfram [Alpha](https://www.wolframalpha.com/) [Demonstrations](https://demonstrations.wolfram.com/)
-- [Sage](https://doc.sagemath.org/html/en/reference/index.html)
+- [Sage](https://doc.sagemath.org/html/en/reference/index.html) [Forum](https://ask.sagemath.org/questions/)
 - [SageManifolds](https://sagemanifolds.obspm.fr/examples.html)
 - [M2](https://macaulay2.com/)
 ## 拓扑和几何
@@ -61,6 +61,7 @@
 - [Efficient Deep Learning Computing](https://efficientml.ai)
 - [UCB Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/)
 - [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl)
+- [](https://github.com/enggen/DeepMind-Advanced-Deep-Learning-and-Reinforcement-Learning)
 - [Foundations of Deep Learning](http://www.cs.umd.edu/class/spring2024/cmsc720/)
 ## 数值优化
 - 凸优化 [1](https://stanford.edu/class/ee364a/lectures.html) [2](http://stanford.edu/class/ee364b/lectures.html)
