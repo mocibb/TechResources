@@ -71,12 +71,12 @@
 ## 有限元
 - [FEniCS](https://fenicsproject.org/)
 ## 软件无线电
+- [RTL-SDR.com](https://www.rtl-sdr.com/)
+- [PySDR](https://pysdr.org/)
+- [Complex To Real](https://complextoreal.com/tutorials/)
 - [Software Defined Radio using MATLAB & Simulink and the RTL-SDR](https://www.desktopsdr.com/)
 - [Universal Radio Hacker](https://github.com/jopohl/urh)
 - [rtl_433](https://triq.org/rtl_433/)
-- [RTL-SDR.com](https://www.rtl-sdr.com/)
-- [Complex To Real](https://complextoreal.com/tutorials/)
-- [PySDR](https://pysdr.org/)
 ## 音频
 - [Audio Signal Processing for Music Applications](https://www.coursera.org/learn/audio-signal-processing)
 - [Fundamentals of Music Processing](https://github.com/meinardmueller/libfmp)
