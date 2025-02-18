@@ -6,6 +6,7 @@
 - [Learn to Learn](https://github.com/nbro/understanding-math)
 - [Quanta Magazine](https://www.quantamagazine.org/mathematics/)
 - [ICERM](https://icerm.brown.edu/)
+- [北京雁栖湖](https://www.bimsa.cn/zh-CN)
 ## 数学软件
 - Wolfram [Alpha](https://www.wolframalpha.com/) [Demonstrations](https://demonstrations.wolfram.com/)
 - [Sage](https://doc.sagemath.org/html/en/reference/index.html) [Forum](https://ask.sagemath.org/questions/)
