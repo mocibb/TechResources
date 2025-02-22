@@ -3,7 +3,6 @@
 
 # 数学
 - [Rossant's awesome-math](https://github.com/rossant/awesome-math)
-- [Learn to Learn](https://github.com/nbro/understanding-math)
 - [Quanta Magazine](https://www.quantamagazine.org/mathematics/)
 - [ICERM](https://icerm.brown.edu/)
 - [北京雁栖湖](https://www.bimsa.cn/zh-CN)
