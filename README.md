@@ -48,6 +48,7 @@
 - [markitdown](https://github.com/microsoft/markitdown)
 - [PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate)
 - [OmniParser](https://github.com/microsoft/OmniParser)
+- [ElegantBook](https://github.com/ElegantLaTeX/ElegantBook)
 ## 算法
 - [Algorithms & data structures project](https://github.com/williamfiset/Algorithms)
 - [The Modern Algorithmic Toolbox](https://web.stanford.edu/class/cs168/)
