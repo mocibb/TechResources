@@ -64,7 +64,7 @@
 - [Efficient Deep Learning Computing](https://efficientml.ai)
 - [UCB Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/)
 - [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl)
-- [](https://github.com/enggen/DeepMind-Advanced-Deep-Learning-and-Reinforcement-Learning)
+- [DeepMind+UCL Reinforcement Learning](https://github.com/enggen/DeepMind-Advanced-Deep-Learning-and-Reinforcement-Learning)
 - [Foundations of Deep Learning](http://www.cs.umd.edu/class/spring2024/cmsc720/)
 ## 数值优化
 - 凸优化 [1](https://stanford.edu/class/ee364a/lectures.html) [2](http://stanford.edu/class/ee364b/lectures.html)
