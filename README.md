@@ -54,7 +54,7 @@
 - [The Modern Algorithmic Toolbox](https://web.stanford.edu/class/cs168/)
 - [Project Euler](https://projecteuler.net/archives)
 ## 课程
-- [rom Nand to Tetris](https://www.nand2tetris.org/)
+- [From Nand to Tetris](https://www.nand2tetris.org/)
 # 应用科学
 ## AI
 - [State-of-the-art result for all Machine Learning Problems](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems)
