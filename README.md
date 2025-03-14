@@ -41,6 +41,8 @@
 - [Medium](https://medium.com/)
 - [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
 - [Build your own X](https://github.com/codecrafters-io/build-your-own-x)
+- [Ray Tracing in One Weekend](https://raytracing.github.io/)
+- [Physically Based Rendering](https://www.pbr-book.org/)
 ## 工具
 - [Modern Unix](https://github.com/ibraheemdev/modern-unix)
 - [Compiler Explorer](https://compiler-explorer.com/)
@@ -116,10 +118,10 @@
 - [MIT Cheetah](https://github.com/mit-biomimetics/Cheetah-Software)
 - [Spot Micro Quadruped Project](https://github.com/mike4192/spotMicro)
 - [OCS2 Toolbox](https://github.com/leggedrobotics/ocs2)
-#### 状态估计
+### 状态估计
 - [invariant-ekf](https://github.com/RossHartley/invariant-ekf)
 - [EKF Comparison](https://github.com/ami-iit/paper_ramadoss-2022-iros-humanoid-base-estimation)
-#### 仿真
+### 仿真
 - [Webots](https://cyberbotics.com/)
 - [Hector](https://github.com/DRCL-USC/Hector_Simulation)
 ## 编程
