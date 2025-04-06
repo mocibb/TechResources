@@ -69,6 +69,7 @@
 - [CS224N: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/index.html)
 - [CS224W: Machine Learning with Graphs](http://web.stanford.edu/class/cs224w/)
 - [Efficient Deep Learning Computing](https://efficientml.ai)
+- [李宏毅](https://github.com/Fafa-DL/Lhy_Machine_Learning)
 - [UCB Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/)
 - [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl)
 - [DeepMind+UCL Reinforcement Learning](https://github.com/enggen/DeepMind-Advanced-Deep-Learning-and-Reinforcement-Learning)
