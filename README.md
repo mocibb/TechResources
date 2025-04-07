@@ -28,7 +28,6 @@
 - [Lie groups and Lie algebras](http://jde27.uk/lgla/info.html)
 - [Topology and Groups](http://www.homepages.ucl.ac.uk/~ucahjde/tg/html/index.html)
 - [The Geometry of Differential Forms](http://sites.science.oregonstate.edu/physics/coursewikis/GDF/)
-- MIT Introduction to Numerical Methods [1](https://ocw.mit.edu/courses/18-335j-introduction-to-numerical-methods-spring-2019/) [2](https://github.com/mitmath/18335)
 
 # 物理
 - [The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu/info/)
@@ -80,6 +79,7 @@
 - [Berkeley CS267](https://sites.google.com/lbl.gov/cs267-spr2025/)
 ## 数值优化
 - 凸优化 [1](https://stanford.edu/class/ee364a/lectures.html) [2](http://stanford.edu/class/ee364b/lectures.html)
+- MIT Introduction to Numerical Methods [1](https://ocw.mit.edu/courses/18-335j-introduction-to-numerical-methods-spring-2019/) [2](https://github.com/mitmath/18335)
 - [MOSEK Modeling Cookbook](https://docs.mosek.com/modeling-cookbook/index.html)
 - [JuMPTutorials.jl](https://github.com/jump-dev/JuMPTutorials.jl)
 - [Awesome Optimization Courses](https://github.com/ebrahimpichka/awesome-optimization)
