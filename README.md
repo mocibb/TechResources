@@ -74,6 +74,10 @@
 - [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl)
 - [DeepMind+UCL Reinforcement Learning](https://github.com/enggen/DeepMind-Advanced-Deep-Learning-and-Reinforcement-Learning)
 - [Foundations of Deep Learning](http://www.cs.umd.edu/class/spring2024/cmsc720/)
+## 并行计算
+- [MIT 6.172](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/resources/lecture-videos/)
+- [CS149](https://gfxcourses.stanford.edu/cs149)
+- [Berkeley CS267](https://sites.google.com/lbl.gov/cs267-spr2025/)
 ## 数值优化
 - 凸优化 [1](https://stanford.edu/class/ee364a/lectures.html) [2](http://stanford.edu/class/ee364b/lectures.html)
 - [MOSEK Modeling Cookbook](https://docs.mosek.com/modeling-cookbook/index.html)
