@@ -64,6 +64,7 @@
 ### 课程
 - [fast.ai](https://www.fast.ai/)
 - [MS Artificial Intelligence for Beginners](https://github.com/microsoft/AI-For-Beginners)
+- [MS Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners)
 - [MIT 6.S191](https://github.com/MITDeepLearning/introtodeeplearning)
 - [CS231n: Deep Learning for Computer Vision](https://cs231n.stanford.edu/)
 - [CS224N: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/index.html)
