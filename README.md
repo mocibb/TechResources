@@ -108,7 +108,7 @@
 - [PoseLib](https://github.com/PoseLib/PoseLib)
 - [Basalt](https://github.com/VladyslavUsenko/basalt-mirror)
 - [Kornia](https://kornia.readthedocs.io/en/latest/index.html)
-- [colmap/glomap](https://github.com/colmap/glomap)
+- [colmap/glomap+RoMo](https://github.com/colmap/glomap)
 - [Pixel-Perfect Structure-from-Motion](https://github.com/cvg/pixel-perfect-sfm)
 - [MASt3R](https://github.com/naver/mast3r)
 ## 状态估计
