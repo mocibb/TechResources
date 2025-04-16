@@ -74,6 +74,9 @@
 - [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl)
 - [DeepMind+UCL Reinforcement Learning](https://github.com/enggen/DeepMind-Advanced-Deep-Learning-and-Reinforcement-Learning)
 - [Foundations of Deep Learning](http://www.cs.umd.edu/class/spring2024/cmsc720/)
+## 计算影像
+- [Visual Computing Systems](https://gfxcourses.stanford.edu/cs348k/spring25)
+- [Computational Imaging](https://stanford.edu/class/ee367/)
 ## 并行计算
 - [MIT 6.172](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/resources/lecture-videos/)
 - [CS149](https://gfxcourses.stanford.edu/cs149)
