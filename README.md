@@ -59,7 +59,6 @@
 - [From Nand to Tetris](https://www.nand2tetris.org/)
 # 应用科学
 ## AI
-- [State-of-the-art result for all Machine Learning Problems](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems)
 - [Music Generation with AI](https://github.com/Curated-Awesome-Lists/awesome-ai-music-generation)
 ### 课程
 - [fast.ai](https://www.fast.ai/)
