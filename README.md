@@ -75,6 +75,7 @@
 - [DeepMind+UCL Reinforcement Learning](https://github.com/enggen/DeepMind-Advanced-Deep-Learning-and-Reinforcement-Learning)
 - [Foundations of Deep Learning](http://www.cs.umd.edu/class/spring2024/cmsc720/)
 ## 计算影像
+- [Understanding the In-Camera Image Processing Pipeline for Computer Vision](https://www.eecs.yorku.ca/~mbrown/CVPR2016_Brown.html)
 - [Visual Computing Systems@stanford](https://gfxcourses.stanford.edu/cs348k/spring25) [assignment](https://github.com/stanford-cs348k)
 - [Computational Imaging@stanford](https://stanford.edu/class/ee367/)
 - [Computational Photography@CMU](https://graphics.cs.cmu.edu/courses/15-463/)
