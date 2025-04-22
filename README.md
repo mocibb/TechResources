@@ -81,6 +81,9 @@
 - [Computational Photography@CMU ★](https://graphics.cs.cmu.edu/courses/15-463/)
 - [Marc's Digital Photography](https://sites.google.com/site/marclevoylectures/schedule)
 - [Computational Photography@brown.edu](https://browncsci1290.github.io/webpage/)
+- [Understanding the In-Camera Image Processing Pipeline for Computer Vision](https://www.eecs.yorku.ca/~mbrown/CVPR2016_Brown.html)
+### ISP实现
+- [Infinite-ISP](https://github.com/10x-Engineers/Infinite-ISP)
 ## 并行计算
 - [MIT 6.172](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/resources/lecture-videos/)
 - [CS149](https://gfxcourses.stanford.edu/cs149)
