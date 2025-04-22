@@ -79,6 +79,7 @@
 - [Visual Computing Systems@stanford](https://gfxcourses.stanford.edu/cs348k/spring25) [assignment](https://github.com/stanford-cs348k)
 - [Computational Imaging@stanford](https://stanford.edu/class/ee367/)
 - [Computational Photography@CMU ★](https://graphics.cs.cmu.edu/courses/15-463/)
+- [Marc's Digital Photography](https://sites.google.com/site/marclevoylectures/schedule)
 - [Computational Photography@brown.edu](https://browncsci1290.github.io/webpage/)
 ## 并行计算
 - [MIT 6.172](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/resources/lecture-videos/)
