@@ -84,6 +84,7 @@
 - [Understanding the In-Camera Image Processing Pipeline for Computer Vision](https://www.eecs.yorku.ca/~mbrown/CVPR2016_Brown.html)
 ### ISP实现
 - [Infinite-ISP](https://github.com/10x-Engineers/Infinite-ISP)
+- [Open Image Signal Processor](https://github.com/cruxopen/openISP)
 ## 并行计算
 - [MIT 6.172](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/resources/lecture-videos/)
 - [CS149](https://gfxcourses.stanford.edu/cs149)
