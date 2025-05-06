@@ -84,6 +84,7 @@
 - [Understanding the In-Camera Image Processing Pipeline for Computer Vision](https://www.eecs.yorku.ca/~mbrown/CVPR2016_Brown.html)
 ## IoT
 - [Wirelessly Sense](https://www.mit.edu/~fadel/courses/MAS.s60/)
+- [Image Sensors World](https://image-sensors-world.blogspot.com/)
 ### ISP实现
 - [Infinite-ISP](https://github.com/10x-Engineers/Infinite-ISP)
 ## 并行计算
