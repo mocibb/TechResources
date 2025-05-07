@@ -60,6 +60,7 @@
 # 应用科学
 ## AI
 - [Music Generation with AI](https://github.com/Curated-Awesome-Lists/awesome-ai-music-generation)
+- [Machine Learning From Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
 ### 课程
 - [fast.ai](https://www.fast.ai/)
 - [MS Artificial Intelligence for Beginners](https://github.com/microsoft/AI-For-Beginners)
