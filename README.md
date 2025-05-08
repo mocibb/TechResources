@@ -88,6 +88,7 @@
 - [Image Sensors World](https://image-sensors-world.blogspot.com/)
 ### ISP实现
 - [Infinite-ISP](https://github.com/10x-Engineers/Infinite-ISP)
+- [HDR ISP](https://github.com/JokerEyeAdas/HDR-ISP)
 ## 并行计算
 - [MIT 6.172](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/resources/lecture-videos/)
 - [CS149](https://gfxcourses.stanford.edu/cs149)
