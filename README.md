@@ -109,6 +109,7 @@
 - [Software Defined Radio using MATLAB & Simulink and the RTL-SDR](https://www.desktopsdr.com/)
 - [Universal Radio Hacker](https://github.com/jopohl/urh)
 - [rtl_433](https://triq.org/rtl_433/)
+- [Introduction to Wireless Communications](https://www.youtube.com/playlist?list=PLi2gZdKUQKQnutD_4xzrtOxaBnL0bQMF_)
 ## 音频
 - [Audio Signal Processing for Music Applications](https://www.coursera.org/learn/audio-signal-processing)
 - [Fundamentals of Music Processing](https://github.com/meinardmueller/libfmp)
