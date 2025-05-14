@@ -71,6 +71,7 @@
 - [CS224W: Machine Learning with Graphs](http://web.stanford.edu/class/cs224w/)
 - [Efficient Deep Learning Computing](https://efficientml.ai)
 - [李宏毅](https://github.com/Fafa-DL/Lhy_Machine_Learning)  [强化学习](https://www.youtube.com/playlist?list=PLJV_el3uVTsODxQFgzMzPLa16h6B8kWM_) [课件](https://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html)
+- [David Silver's RL](https://davidstarsilver.wordpress.com/teaching/)
 - [UCB Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/)
 - [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl)
 - [DeepMind+UCL Reinforcement Learning](https://github.com/enggen/DeepMind-Advanced-Deep-Learning-and-Reinforcement-Learning)
