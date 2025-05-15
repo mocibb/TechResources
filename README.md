@@ -15,6 +15,7 @@
 - [Jeff Weeks’ Topology and Geometry Software](https://www.geometrygames.org/)
 - [Applied Algebraic Topology Research Network](https://www.aatrn.net/home)
 - [Algorithmic topology and geometry of 3-manifolds](https://nmd.web.illinois.edu/classes/2021/595B/index.html)
+- [DSCI 475: Topological Data Analysis](https://www.math.colostate.edu/~adams/teaching/dsci475spr2021/)
 ## 图论
 - [谱图论](http://www.cs.yale.edu/homes/spielman/462/462schedule.html)
 - [NetworkX](https://networkx.org/)
