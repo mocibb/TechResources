@@ -99,7 +99,7 @@
 - 凸优化 [1](https://stanford.edu/class/ee364a/lectures.html) [2](http://stanford.edu/class/ee364b/lectures.html)
 - MIT Introduction to Numerical Methods [1](https://ocw.mit.edu/courses/18-335j-introduction-to-numerical-methods-spring-2019/) [2](https://github.com/mitmath/18335)
 - [MOSEK Modeling Cookbook](https://docs.mosek.com/modeling-cookbook/index.html)
-- [JuMPTutorials](https://jump.dev/JuMP.jl/stable/))
+- [JuMPTutorials](https://jump.dev/JuMP.jl/stable/)
 - [Awesome Optimization Courses](https://github.com/ebrahimpichka/awesome-optimization)
 - [Awesome Scientific Computing](https://github.com/nschloe/awesome-scientific-computing)
 ## 有限元
