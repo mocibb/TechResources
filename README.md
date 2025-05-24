@@ -29,6 +29,8 @@
 - [Lie groups and Lie algebras](http://jde27.uk/lgla/info.html)
 - [Topology and Groups](http://www.homepages.ucl.ac.uk/~ucahjde/tg/html/index.html)
 - [The Geometry of Differential Forms](http://sites.science.oregonstate.edu/physics/coursewikis/GDF/)
+## 网格
+- [Penner Coordinates](http://ryanjcapouellez.com/)
 
 # 物理
 - [The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu/info/)
