@@ -54,6 +54,7 @@
 - [OmniParser](https://github.com/microsoft/OmniParser)
 - [ElegantBook](https://github.com/ElegantLaTeX/ElegantBook)
 - [UniMERNet](https://github.com/opendatalab/UniMERNet)
+- [transformer-explainer](https://poloclub.github.io/transformer-explainer/)
 ## 算法
 - [Algorithms & data structures project](https://github.com/williamfiset/Algorithms)
 - [The Modern Algorithmic Toolbox](https://web.stanford.edu/class/cs168/)
