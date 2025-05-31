@@ -57,7 +57,7 @@
 ## AI工具
 - [einops](https://einops.rocks/)
 - [transformer-explainer](https://poloclub.github.io/transformer-explainer/)
-- illustrated [Transformer](https://jalammar.github.io/illustrated-transformer/) [GPT2](https://jalammar.github.io/illustrated-gpt2/)
+- Illustrated [Transformer](https://jalammar.github.io/illustrated-transformer/) [GPT2](https://jalammar.github.io/illustrated-gpt2/)
 ## 算法
 - [Algorithms & data structures project](https://github.com/williamfiset/Algorithms)
 - [The Modern Algorithmic Toolbox](https://web.stanford.edu/class/cs168/)
