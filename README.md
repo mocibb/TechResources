@@ -58,6 +58,8 @@
 - [einops](https://einops.rocks/)
 - [transformer-explainer](https://poloclub.github.io/transformer-explainer/)
 - Illustrated [Transformer](https://jalammar.github.io/illustrated-transformer/) [GPT2](https://jalammar.github.io/illustrated-gpt2/)
+- [MiniMind](https://github.com/jingyaogong/minimind)
+- [NanoGPT](https://github.com/KellerJordan/modded-nanogpt)
 ## 算法
 - [Algorithms & data structures project](https://github.com/williamfiset/Algorithms)
 - [The Modern Algorithmic Toolbox](https://web.stanford.edu/class/cs168/)
