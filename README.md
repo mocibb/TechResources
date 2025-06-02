@@ -58,6 +58,7 @@
 - [einops](https://einops.rocks/)
 - [transformer-explainer](https://poloclub.github.io/transformer-explainer/)
 - Illustrated [Transformer](https://jalammar.github.io/illustrated-transformer/) [GPT2](https://jalammar.github.io/illustrated-gpt2/)
+- [TPU Scaling Book](https://jax-ml.github.io/scaling-book/)
 - [MiniMind](https://github.com/jingyaogong/minimind)
 - [NanoGPT](https://github.com/KellerJordan/modded-nanogpt)
 ## 算法
