@@ -55,6 +55,7 @@
 - [ElegantBook](https://github.com/ElegantLaTeX/ElegantBook)
 - [UniMERNet](https://github.com/opendatalab/UniMERNet)
 ## AI工具
+- [中文大模型评测](https://github.com/jeinlee1991/chinese-llm-benchmark)
 - [einops](https://einops.rocks/)
 - [triton](https://triton-lang.org/main/index.html)
 - [transformer-explainer](https://poloclub.github.io/transformer-explainer/)
