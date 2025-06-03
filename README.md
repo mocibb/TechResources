@@ -56,6 +56,7 @@
 - [UniMERNet](https://github.com/opendatalab/UniMERNet)
 ## AI工具
 - [einops](https://einops.rocks/)
+- [triton](https://triton-lang.org/main/index.html)
 - [transformer-explainer](https://poloclub.github.io/transformer-explainer/)
 - Illustrated [Transformer](https://jalammar.github.io/illustrated-transformer/) [GPT2](https://jalammar.github.io/illustrated-gpt2/)
 - [TPU Scaling Book](https://jax-ml.github.io/scaling-book/)
