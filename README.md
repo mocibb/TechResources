@@ -54,6 +54,7 @@
 - [OmniParser](https://github.com/microsoft/OmniParser)
 - [ElegantBook](https://github.com/ElegantLaTeX/ElegantBook)
 - [UniMERNet](https://github.com/opendatalab/UniMERNet)
+- [The Parallel Hashmap](https://github.com/greg7mdp/parallel-hashmap)
 ## AI工具
 - [中文大模型评测](https://github.com/jeinlee1991/chinese-llm-benchmark)
 - [einops](https://einops.rocks/)
