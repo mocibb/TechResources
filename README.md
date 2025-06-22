@@ -110,6 +110,7 @@
 - [CS149](https://gfxcourses.stanford.edu/cs149)
 - [Berkeley CS267](https://sites.google.com/lbl.gov/cs267-spr2025/)
 - [GPU-MODE](https://github.com/gpu-mode/lectures)
+- [Heterogenous Parallel Programming](https://www.youtube.com/playlist?list=PLzn6LN6WhlN06hIOA_ge6SrgdeSiuf9Tb)
 ## 数值优化
 - 凸优化 [1](https://stanford.edu/class/ee364a/lectures.html) [2](http://stanford.edu/class/ee364b/lectures.html)
 - MIT Introduction to Numerical Methods [1](https://ocw.mit.edu/courses/18-335j-introduction-to-numerical-methods-spring-2019/) [2](https://github.com/mitmath/18335)
