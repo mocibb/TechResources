@@ -59,7 +59,7 @@
 - [中文大模型评测](https://github.com/jeinlee1991/chinese-llm-benchmark)
 - [einops](https://einops.rocks/)
 - [triton](https://triton-lang.org/main/index.html) [triton-resources](https://github.com/rkinas/triton-resources)
-- [transformer-explainer](https://poloclub.github.io/transformer-explainer/)
+- [transformer-explainer](https://poloclub.github.io/transformer-explainer/) [LLM Visualization](https://bbycroft.net/llm)
 - Illustrated [Transformer](https://jalammar.github.io/illustrated-transformer/) [GPT2](https://jalammar.github.io/illustrated-gpt2/)
 - [TPU Scaling Book](https://jax-ml.github.io/scaling-book/)
 - [MiniMind](https://github.com/jingyaogong/minimind)
