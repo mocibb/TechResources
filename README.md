@@ -19,6 +19,7 @@
 ## 图论
 - [谱图论](http://www.cs.yale.edu/homes/spielman/462/462schedule.html)
 - [NetworkX](https://networkx.org/)
+- [e-graphs good](https://egraphs-good.github.io/)
 - [SageMath Graph Theory](https://doc.sagemath.org/html/en/reference/graphs/index.html)
 - [GraphTea](http://graphtheorysoftware.com/)
 - [D3 Graph Theory](https://d3gt.com/unit.html)
@@ -57,6 +58,7 @@
 - [The Parallel Hashmap](https://github.com/greg7mdp/parallel-hashmap)
 ## AI工具
 - [中文大模型评测](https://github.com/jeinlee1991/chinese-llm-benchmark)
+- [Luminal](https://demo.luminalai.com/)
 - [einops](https://einops.rocks/)
 - [triton](https://triton-lang.org/main/index.html) [triton-resources](https://github.com/rkinas/triton-resources)
 - [transformer-explainer](https://poloclub.github.io/transformer-explainer/) [LLM Visualization](https://bbycroft.net/llm)
