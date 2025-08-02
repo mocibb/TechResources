@@ -11,6 +11,7 @@
 - [Sage](https://doc.sagemath.org/html/en/reference/index.html) [Forum](https://ask.sagemath.org/questions/) [CoCalc](https://cocalc.com)
 - [SageManifolds](https://sagemanifolds.obspm.fr/examples.html)
 - [M2](https://macaulay2.com/)
+- Lean [Natural Number Game](https://adam.math.hhu.de/#/g/leanprover-community/nng4) [C99](https://web.stanford.edu/class/cs99/)
 ## 拓扑和几何
 - [Jeff Weeks’ Topology and Geometry Software](https://www.geometrygames.org/)
 - [Applied Algebraic Topology Research Network](https://www.aatrn.net/home)
