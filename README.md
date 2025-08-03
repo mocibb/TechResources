@@ -61,6 +61,7 @@
 - [中文大模型评测](https://github.com/jeinlee1991/chinese-llm-benchmark)
 - [Luminal](https://demo.luminalai.com/)
 - [ThunderKittens](https://github.com/HazyResearch/ThunderKittens)
+- [TF可视化](https://playground.tensorflow.org/)
 - [einops](https://einops.rocks/)
 - [triton](https://triton-lang.org/main/index.html) [triton-resources](https://github.com/rkinas/triton-resources)
 - [unsloth](https://github.com/unslothai/unsloth)
