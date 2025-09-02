@@ -57,6 +57,7 @@
 - [ElegantBook](https://github.com/ElegantLaTeX/ElegantBook)
 - [UniMERNet](https://github.com/opendatalab/UniMERNet)
 - [The Parallel Hashmap](https://github.com/greg7mdp/parallel-hashmap)
+- [去掉无用的include](https://wiki.documentfoundation.org/Development/IWYU-Howto)
 ## AI工具
 - [中文大模型评测](https://github.com/jeinlee1991/chinese-llm-benchmark)
 - [Luminal](https://demo.luminalai.com/)
