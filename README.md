@@ -59,6 +59,7 @@
 - [The Parallel Hashmap](https://github.com/greg7mdp/parallel-hashmap)
 - [Obfusheader.h](https://github.com/ac3ss0r/obfusheader.h)
 - [去掉无用的include](https://include-what-you-use.org/) [Lo](https://wiki.documentfoundation.org/Development/IWYU-Howto)
+- [PDF debugger](https://pdf.hyzyla.dev/)
 ## AI工具
 - [中文大模型评测](https://github.com/jeinlee1991/chinese-llm-benchmark)
 - [Luminal](https://demo.luminalai.com/)
