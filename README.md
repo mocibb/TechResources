@@ -7,7 +7,7 @@
 - [ICERM](https://icerm.brown.edu/)
 - [北京雁栖湖](https://www.bimsa.cn/zh-CN)
 ## 数学软件
-- Wolfram [文档](https://reference.wolfram.com/language/index.html.zh)[Alpha](https://www.wolframalpha.com/) [Demonstrations](https://demonstrations.wolfram.com/)
+- Wolfram [文档](https://reference.wolfram.com/language/index.html.zh) [Alpha](https://www.wolframalpha.com/) [Demonstrations](https://demonstrations.wolfram.com/)
 - [Sage](https://doc.sagemath.org/html/en/reference/index.html) [Forum](https://ask.sagemath.org/questions/) [CoCalc](https://cocalc.com)
 - [SageManifolds](https://sagemanifolds.obspm.fr/examples.html)
 - [M2](https://macaulay2.com/)
