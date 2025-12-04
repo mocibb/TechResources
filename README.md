@@ -79,6 +79,7 @@
 - [Project Euler](https://projecteuler.net/archives)
 ## 课程
 - [From Nand to Tetris](https://www.nand2tetris.org/)
+- [Great Ideas in Theoretical Computer Science](https://www.cs251.com/)
 # 应用科学
 ## AI
 - [Music Generation with AI](https://github.com/Curated-Awesome-Lists/awesome-ai-music-generation)
