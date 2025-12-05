@@ -118,6 +118,7 @@
 - [HDR ISP](https://github.com/JokerEyeAdas/HDR-ISP)
 ## 并行计算
 - [MIT 6.172](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/resources/lecture-videos/)
+- [MIT 6.824](https://pdos.csail.mit.edu/6.824/schedule.html)
 - [CS149](https://gfxcourses.stanford.edu/cs149)
 - [Berkeley CS267](https://sites.google.com/lbl.gov/cs267-spr2025/)
 - [GPU-MODE](https://github.com/gpu-mode/lectures)
