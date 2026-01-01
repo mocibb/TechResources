@@ -105,6 +105,8 @@
 ### Agent
 - [AI Agents for Beginners](https://learn.microsoft.com/en-us/shows/ai-agents-for-beginners/)
 - [Agentic AI](learn.deeplearning.ai/courses/agentic-ai)
+- [AI Agents in LangGraph](https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/)
+- [Multi AI Agent Systems with crewAI](https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/)
 ### AI工具
 - [中文大模型评测](https://github.com/jeinlee1991/chinese-llm-benchmark)
 - [ThunderKittens](https://github.com/HazyResearch/ThunderKittens)
