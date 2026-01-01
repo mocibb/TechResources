@@ -107,7 +107,6 @@
 - [Agentic AI](learn.deeplearning.ai/courses/agentic-ai)
 ### AI工具
 - [中文大模型评测](https://github.com/jeinlee1991/chinese-llm-benchmark)
-- [Luminal](https://demo.luminalai.com/)
 - [ThunderKittens](https://github.com/HazyResearch/ThunderKittens)
 - [TF可视化](https://playground.tensorflow.org/)
 - [einops](https://einops.rocks/)
