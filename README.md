@@ -42,7 +42,6 @@
 - [Open Source Society University](https://github.com/ossu/computer-science)
 - [cs自学指南](https://csdiy.wiki/)
 - [Awesome CS Courses](https://github.com/prakhar1989/awesome-courses)
-- [Medium](https://medium.com/)
 - [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
 - [Build your own X](https://github.com/codecrafters-io/build-your-own-x)
 - [Project Based Learning](https://github.com/practical-tutorials/project-based-learning)
