@@ -6,12 +6,6 @@
 - [Quanta Magazine](https://www.quantamagazine.org/mathematics/)
 - [ICERM](https://icerm.brown.edu/)
 - [北京雁栖湖](https://www.bimsa.cn/zh-CN)
-## 数学软件
-- Wolfram [文档](https://reference.wolfram.com/language/index.html.zh) [Alpha](https://www.wolframalpha.com/) [Demonstrations](https://demonstrations.wolfram.com/)
-- [Sage](https://doc.sagemath.org/html/en/reference/index.html) [Forum](https://ask.sagemath.org/questions/) [CoCalc](https://cocalc.com)
-- [SageManifolds](https://sagemanifolds.obspm.fr/examples.html)
-- [M2](https://macaulay2.com/)
-- Lean [Natural Number Game](https://adam.math.hhu.de/#/g/leanprover-community/nng4) [C99](https://web.stanford.edu/class/cs99/)
 ## 拓扑和几何
 - [Jeff Weeks’ Topology and Geometry Software](https://www.geometrygames.org/)
 - [Applied Algebraic Topology Research Network](https://www.aatrn.net/home)
@@ -31,9 +25,14 @@
 - [Lie groups and Lie algebras](http://jde27.uk/lgla/info.html)
 - [Topology and Groups](http://www.homepages.ucl.ac.uk/~ucahjde/tg/html/index.html)
 - [The Geometry of Differential Forms](http://sites.science.oregonstate.edu/physics/coursewikis/GDF/)
+## 数学软件
+- Wolfram [文档](https://reference.wolfram.com/language/index.html.zh) [Alpha](https://www.wolframalpha.com/) [Demonstrations](https://demonstrations.wolfram.com/)
+- [Sage](https://doc.sagemath.org/html/en/reference/index.html) [Forum](https://ask.sagemath.org/questions/) [CoCalc](https://cocalc.com)
+- [SageManifolds](https://sagemanifolds.obspm.fr/examples.html)
+- [M2](https://macaulay2.com/)
+- Lean [Natural Number Game](https://adam.math.hhu.de/#/g/leanprover-community/nng4) [C99](https://web.stanford.edu/class/cs99/)
 ## 网格
 - [Penner Coordinates](http://ryanjcapouellez.com/)
-
 # 物理
 - [The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu/info/)
 - [The Theoretical Minimum](https://theoreticalminimum.com/)
@@ -48,6 +47,22 @@
 - [Project Based Learning](https://github.com/practical-tutorials/project-based-learning)
 - [Ray Tracing in One Weekend](https://raytracing.github.io/)
 - [Physically Based Rendering](https://www.pbr-book.org/)
+## 算法
+- [Algorithms & data structures project](https://github.com/williamfiset/Algorithms)
+- [The Modern Algorithmic Toolbox](https://web.stanford.edu/class/cs168/)
+- [Project Euler](https://projecteuler.net/archives)
+## 课程
+- [From Nand to Tetris](https://www.nand2tetris.org/)
+- [Great Ideas in Theoretical Computer Science](https://www.cs251.com/)
+- Mathematics for Computer Science [2010](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/) [2015](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/)
+## 计算影像
+- [Understanding the In-Camera Image Processing Pipeline for Computer Vision](https://www.eecs.yorku.ca/~mbrown/CVPR2016_Brown.html)
+- [Visual Computing Systems@stanford](https://gfxcourses.stanford.edu/cs348k/spring25) [assignment](https://github.com/stanford-cs348k)
+- [Computational Imaging@stanford](https://stanford.edu/class/ee367/)
+- [Computational Photography@CMU ★](https://graphics.cs.cmu.edu/courses/15-463/)
+- [Marc's Digital Photography](https://sites.google.com/site/marclevoylectures/schedule)
+- [Computational Photography@brown.edu](https://browncsci1290.github.io/webpage/)
+- [Understanding the In-Camera Image Processing Pipeline for Computer Vision](https://www.eecs.yorku.ca/~mbrown/CVPR2016_Brown.html)
 ## 工具
 - [Modern Unix](https://github.com/ibraheemdev/modern-unix)
 - [Compiler Explorer](https://compiler-explorer.com/)
@@ -61,32 +76,10 @@
 - [Obfusheader.h](https://github.com/ac3ss0r/obfusheader.h)
 - [去掉无用的include](https://include-what-you-use.org/) [Lo](https://wiki.documentfoundation.org/Development/IWYU-Howto)
 - [PDF debugger](https://pdf.hyzyla.dev/)
-## AI工具
-- [中文大模型评测](https://github.com/jeinlee1991/chinese-llm-benchmark)
-- [Luminal](https://demo.luminalai.com/)
-- [ThunderKittens](https://github.com/HazyResearch/ThunderKittens)
-- [TF可视化](https://playground.tensorflow.org/)
-- [einops](https://einops.rocks/)
-- [triton](https://triton-lang.org/main/index.html) [triton-resources](https://github.com/rkinas/triton-resources)
-- [unsloth](https://github.com/unslothai/unsloth)
-- [transformer-explainer](https://poloclub.github.io/transformer-explainer/) [LLM Visualization](https://bbycroft.net/llm)
-- Illustrated [Transformer](https://jalammar.github.io/illustrated-transformer/) [GPT2](https://jalammar.github.io/illustrated-gpt2/)
-- [TPU Scaling Book](https://jax-ml.github.io/scaling-book/)
-- [MiniMind](https://github.com/jingyaogong/minimind)
-- [NanoGPT](https://github.com/KellerJordan/modded-nanogpt)
-## 算法
-- [Algorithms & data structures project](https://github.com/williamfiset/Algorithms)
-- [The Modern Algorithmic Toolbox](https://web.stanford.edu/class/cs168/)
-- [Project Euler](https://projecteuler.net/archives)
-## 课程
-- [From Nand to Tetris](https://www.nand2tetris.org/)
-- [Great Ideas in Theoretical Computer Science](https://www.cs251.com/)
-- Mathematics for Computer Science [2010](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/) [2015](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/)
-# 应用科学
-## AI
+# AI
 - [Music Generation with AI](https://github.com/Curated-Awesome-Lists/awesome-ai-music-generation)
 - [Machine Learning From Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
-### 课程
+## 课程
 - [fast.ai](https://www.fast.ai/)
 - [MS Artificial Intelligence for Beginners](https://github.com/microsoft/AI-For-Beginners)
 - [MS Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners)
@@ -103,14 +96,29 @@
 - [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl)
 - [DeepMind+UCL Reinforcement Learning](https://github.com/enggen/DeepMind-Advanced-Deep-Learning-and-Reinforcement-Learning)
 - [Foundations of Deep Learning](http://www.cs.umd.edu/class/spring2024/cmsc720/)
-## 计算影像
-- [Understanding the In-Camera Image Processing Pipeline for Computer Vision](https://www.eecs.yorku.ca/~mbrown/CVPR2016_Brown.html)
-- [Visual Computing Systems@stanford](https://gfxcourses.stanford.edu/cs348k/spring25) [assignment](https://github.com/stanford-cs348k)
-- [Computational Imaging@stanford](https://stanford.edu/class/ee367/)
-- [Computational Photography@CMU ★](https://graphics.cs.cmu.edu/courses/15-463/)
-- [Marc's Digital Photography](https://sites.google.com/site/marclevoylectures/schedule)
-- [Computational Photography@brown.edu](https://browncsci1290.github.io/webpage/)
-- [Understanding the In-Camera Image Processing Pipeline for Computer Vision](https://www.eecs.yorku.ca/~mbrown/CVPR2016_Brown.html)
+## 应用AI
+### 提示词
+- [Prompt Engineering Guide](https://www.promptingguide.ai/)
+- [Anthropic's Prompt engineering overview](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/overview)
+- [Anthropic's Prompt Engineering Interactive Tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)
+- [ChatGPT Prompt Engineering for Developers](https://learn.deeplearning.ai/courses/chatgpt-prompt-eng)
+### Agent
+- [AI Agents for Beginners](https://learn.microsoft.com/en-us/shows/ai-agents-for-beginners/)
+- [Agentic AI](learn.deeplearning.ai/courses/agentic-ai)
+### AI工具
+- [中文大模型评测](https://github.com/jeinlee1991/chinese-llm-benchmark)
+- [Luminal](https://demo.luminalai.com/)
+- [ThunderKittens](https://github.com/HazyResearch/ThunderKittens)
+- [TF可视化](https://playground.tensorflow.org/)
+- [einops](https://einops.rocks/)
+- [triton](https://triton-lang.org/main/index.html) [triton-resources](https://github.com/rkinas/triton-resources)
+- [unsloth](https://github.com/unslothai/unsloth)
+- [transformer-explainer](https://poloclub.github.io/transformer-explainer/) [LLM Visualization](https://bbycroft.net/llm)
+- Illustrated [Transformer](https://jalammar.github.io/illustrated-transformer/) [GPT2](https://jalammar.github.io/illustrated-gpt2/)
+- [TPU Scaling Book](https://jax-ml.github.io/scaling-book/)
+- [MiniMind](https://github.com/jingyaogong/minimind)
+- [NanoGPT](https://github.com/KellerJordan/modded-nanogpt)
+# 应用科学
 ## IoT
 - [Wirelessly Sense](https://www.mit.edu/~fadel/courses/MAS.s60/)
 - [Image Sensors World](https://image-sensors-world.blogspot.com/)
