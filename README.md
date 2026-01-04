@@ -51,6 +51,7 @@
 - [Algorithms & data structures project](https://github.com/williamfiset/Algorithms)
 - [The Modern Algorithmic Toolbox](https://web.stanford.edu/class/cs168/)
 - [Project Euler](https://projecteuler.net/archives)
+- [Data Structures in Practice A Hardware-Aware Approach for System Software Engineers](https://github.com/djiangtw/data-structures-in-practice-public)
 ## 课程
 - [From Nand to Tetris](https://www.nand2tetris.org/)
 - [Great Ideas in Theoretical Computer Science](https://www.cs251.com/)
