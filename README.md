@@ -6,6 +6,10 @@
 - [Quanta Magazine](https://www.quantamagazine.org/mathematics/)
 - [ICERM](https://icerm.brown.edu/)
 - [北京雁栖湖](https://www.bimsa.cn/zh-CN)
+## 线性代数
+- [线性代数的本质](https://www.youtube.com/watch?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+- [A Vision of Linear Algebra](https://ocw.mit.edu/courses/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/) [Graphic notes](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra)
+- [Linear Algebra Done Right](https://linear.axler.net/) [lean4](https://adam.math.hhu.de/#/g/zrtmrh/linearalgebragame)
 ## 拓扑和几何
 - [Jeff Weeks’ Topology and Geometry Software](https://www.geometrygames.org/)
 - [Applied Algebraic Topology Research Network](https://www.aatrn.net/home)
