@@ -81,6 +81,7 @@
 - [Obfusheader.h](https://github.com/ac3ss0r/obfusheader.h)
 - [去掉无用的include](https://include-what-you-use.org/) [Lo](https://wiki.documentfoundation.org/Development/IWYU-Howto)
 - [PDF debugger](https://pdf.hyzyla.dev/)
+- [UI UX Pro Max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)
 # AI
 - [Music Generation with AI](https://github.com/Curated-Awesome-Lists/awesome-ai-music-generation)
 - [Machine Learning From Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
