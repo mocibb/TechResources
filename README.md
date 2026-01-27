@@ -23,6 +23,7 @@
 - [SageMath Graph Theory](https://doc.sagemath.org/html/en/reference/graphs/index.html)
 - [GraphTea](http://graphtheorysoftware.com/)
 - [D3 Graph Theory](https://d3gt.com/unit.html)
+- [Optimal Transport Tools](https://ott-jax.readthedocs.io/)
 ## 课程
 - [PYDDG](https://www.discretization.de/pyddg/doc/v0.4.2/examples/) [code](https://github.com/BjoernLudwig/tu_visualization)
 - [Riemannian Geometry](https://bimsa.net/activity/riemannian/)
