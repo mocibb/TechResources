@@ -127,7 +127,8 @@
 - [MiniMind](https://github.com/jingyaogong/minimind)
 - [NanoGPT](https://github.com/KellerJordan/modded-nanogpt)
 # 应用科学
-## FEM
+## 有限元
+- [FEniCS](https://fenicsproject.org/)
 - [Finite Elements in Civil Engineering and Geosciences](https://teachbooks.tudelft.nl/computational-modelling/intro.html)
 - [Gridap.jl](https://github.com/gridap/Gridap.jl)
 ## IoT
@@ -151,8 +152,6 @@
 - [JuMPTutorials](https://jump.dev/JuMP.jl/stable/)
 - [Awesome Optimization Courses](https://github.com/ebrahimpichka/awesome-optimization)
 - [Awesome Scientific Computing](https://github.com/nschloe/awesome-scientific-computing)
-## 有限元
-- [FEniCS](https://fenicsproject.org/)
 ## 软件无线电
 - [RTL-SDR.com](https://www.rtl-sdr.com/)
 - [PySDR](https://pysdr.org/)
