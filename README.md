@@ -127,6 +127,8 @@
 - [MiniMind](https://github.com/jingyaogong/minimind)
 - [NanoGPT](https://github.com/KellerJordan/modded-nanogpt)
 # 应用科学
+## FEM
+- [Finite Elements in Civil Engineering and Geosciences](https://teachbooks.tudelft.nl/computational-modelling/intro.html)
 ## IoT
 - [Wirelessly Sense](https://www.mit.edu/~fadel/courses/MAS.s60/)
 - [Image Sensors World](https://image-sensors-world.blogspot.com/)
