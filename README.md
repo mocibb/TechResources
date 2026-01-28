@@ -128,7 +128,7 @@
 - [NanoGPT](https://github.com/KellerJordan/modded-nanogpt)
 # 应用科学
 ## 有限元
-- [FEniCS](https://fenicsproject.org/)
+- [FEniCS](https://docs.fenicsproject.org/dolfinx/v0.10.0.post1/python/demos.html)
 - [Finite Elements in Civil Engineering and Geosciences](https://teachbooks.tudelft.nl/computational-modelling/intro.html)
 - [Gridap.jl](https://github.com/gridap/Gridap.jl)
 ## IoT
