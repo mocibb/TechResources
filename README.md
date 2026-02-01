@@ -59,6 +59,7 @@
 - [Data Structures in Practice A Hardware-Aware Approach for System Software Engineers](https://github.com/djiangtw/data-structures-in-practice-public)
 ## 课程
 - [From Nand to Tetris](https://www.nand2tetris.org/)
+- [Safety in Systems Programming(Rust)](https://web.stanford.edu/class/cs110l/)
 - [Great Ideas in Theoretical Computer Science](https://www.cs251.com/)
 - Mathematics for Computer Science [2010](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/) [2015](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/)
 ## 计算影像
