@@ -128,6 +128,7 @@
 - [TPU Scaling Book](https://jax-ml.github.io/scaling-book/)
 - [MiniMind](https://github.com/jingyaogong/minimind)
 - [NanoGPT](https://github.com/KellerJordan/modded-nanogpt)
+- [Agent Browser](https://github.com/vercel-labs/agent-browser)
 # 应用科学
 ## 有限元
 - [FEniCS](https://docs.fenicsproject.org/dolfinx/v0.10.0.post1/python/demos.html)
