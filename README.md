@@ -116,6 +116,7 @@
 - [AI Agents in LangGraph](https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/)
 - [Multi AI Agent Systems with crewAI](https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/)
 - [Awesome Agentic Patterns](https://github.com/nibzard/awesome-agentic-patterns)
+- [Large Language Model Agents](https://rdi.berkeley.edu/llm-agents/f24)
 ### AI工具
 - [中文大模型评测](https://github.com/jeinlee1991/chinese-llm-benchmark)
 - [ThunderKittens](https://github.com/HazyResearch/ThunderKittens)
