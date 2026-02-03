@@ -130,6 +130,10 @@
 - [MiniMind](https://github.com/jingyaogong/minimind)
 - [NanoGPT](https://github.com/KellerJordan/modded-nanogpt)
 - [Agent Browser](https://github.com/vercel-labs/agent-browser)
+### AI模型
+- [GH Models](https://github.com/marketplace/models)
+- [arena.ai](https://arena.ai/)
+- [硅基流动](https://cloud.siliconflow.cn/me/models)
 # 应用科学
 ## 有限元
 - [FEniCS](https://docs.fenicsproject.org/dolfinx/v0.10.0.post1/python/demos.html)
