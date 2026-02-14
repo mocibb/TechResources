@@ -135,6 +135,8 @@
 - [GH Models](https://github.com/marketplace/models)
 - [arena.ai](https://arena.ai/)
 - [硅基流动](https://cloud.siliconflow.cn/me/models)
+### Spec
+- [🌱 Spec Kit](https://github.com/github/spec-kit)
 # 应用科学
 ## 有限元
 - [FEniCS](https://docs.fenicsproject.org/dolfinx/v0.10.0.post1/python/demos.html)
