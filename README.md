@@ -112,7 +112,7 @@
 - [ChatGPT Prompt Engineering for Developers](https://learn.deeplearning.ai/courses/chatgpt-prompt-eng)
 ### Agent
 - [AI Agents for Beginners](https://learn.microsoft.com/en-us/shows/ai-agents-for-beginners/)
-- [Agentic AI](learn.deeplearning.ai/courses/agentic-ai)
+- [Agentic AI](https://learn.deeplearning.ai/courses/agentic-ai)
 - [AI Agents in LangGraph](https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/)
 - [Multi AI Agent Systems with crewAI](https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/)
 - [Awesome Agentic Patterns](https://github.com/nibzard/awesome-agentic-patterns)
