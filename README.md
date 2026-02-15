@@ -89,6 +89,7 @@
 - [Machine Learning From Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
 ## 课程
 - [fast.ai](https://www.fast.ai/)
+- [🧑‍🔬LLM course](https://github.com/mlabonne/llm-course)
 - [MS Artificial Intelligence for Beginners](https://github.com/microsoft/AI-For-Beginners)
 - [MS Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners)
 - [MIT 6.S191](https://github.com/MITDeepLearning/introtodeeplearning)
