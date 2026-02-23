@@ -90,6 +90,7 @@
 ## 课程
 - [fast.ai](https://www.fast.ai/)
 - [🧑‍🔬LLM course](https://github.com/mlabonne/llm-course)
+- [🤖Build a Large Language Model](https://github.com/rasbt/LLMs-from-scratch)
 - [MS Artificial Intelligence for Beginners](https://github.com/microsoft/AI-For-Beginners)
 - [MS Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners)
 - [MIT 6.S191](https://github.com/MITDeepLearning/introtodeeplearning)
