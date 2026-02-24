@@ -123,6 +123,8 @@
 ### AI工具
 - [中文大模型评测](https://github.com/jeinlee1991/chinese-llm-benchmark)
 - [ThunderKittens](https://github.com/HazyResearch/ThunderKittens)
+- [BertViz](https://github.com/jessevig/bertviz)
+- [Ecco](https://github.com/jalammar/ecco)
 - [TF可视化](https://playground.tensorflow.org/)
 - [einops](https://einops.rocks/)
 - [triton](https://triton-lang.org/main/index.html) [triton-resources](https://github.com/rkinas/triton-resources)
