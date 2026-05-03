@@ -102,6 +102,8 @@
 - [Efficient Deep Learning Computing](https://efficientml.ai)
 - [Large Language Model Applications](https://cmu-llms.org/)
 - [李宏毅](https://github.com/Fafa-DL/Lhy_Machine_Learning)  [强化学习](https://www.youtube.com/playlist?list=PLJV_el3uVTsODxQFgzMzPLa16h6B8kWM_) [课件](https://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html)
+- [6.S183](https://www.practical-diffusion.org/lectures/)
+- [6.S184](https://diffusion.csail.mit.edu/2026/index.html)
 - [David Silver's Reinforcement Learning](https://davidstarsilver.wordpress.com/teaching/)
 - [UCB Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/)
 - [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl)
