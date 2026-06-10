@@ -129,6 +129,7 @@
 - [BertViz](https://github.com/jessevig/bertviz)
 - [Ecco](https://github.com/jalammar/ecco)
 - [TF可视化](https://playground.tensorflow.org/)
+- [CVAT.ai](https://www.cvat.ai/)
 - [einops](https://einops.rocks/)
 - [triton](https://triton-lang.org/main/index.html) [triton-resources](https://github.com/rkinas/triton-resources)
 - [unsloth](https://github.com/unslothai/unsloth)
