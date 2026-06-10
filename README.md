@@ -142,7 +142,7 @@
 ### AI模型
 - [GH Models](https://github.com/marketplace/models)
 - [arena.ai](https://arena.ai/)
-- [硅基流动](https://cloud.siliconflow.cn/me/models)
+- [xybbz](sub2api.xybbz.xyz)
 ### Spec
 - [🌱 Spec Kit](https://github.com/github/spec-kit)
 - [OpenSpec](https://github.com/Fission-AI/OpenSpec)
