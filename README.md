@@ -222,6 +222,6 @@
 - [EKF Comparison](https://github.com/ami-iit/paper_ramadoss-2022-iros-humanoid-base-estimation)
 ### 仿真
 - [Webots](https://cyberbotics.com/)
-- [Hector](https://github.com/DRCL-USC/Hector_Simulation)
+- [Hector](https://mujoco.org/)
 ## 编程
 - [IceCream — Never use print() to debug again](https://github.com/gruns/icecream)
