@@ -199,6 +199,7 @@
 - [Pixel-Perfect Structure-from-Motion](https://github.com/cvg/pixel-perfect-sfm)
 - [XM](https://computationalrobotics.seas.harvard.edu/XM/)
 - [MASt3R](https://github.com/naver/mast3r)
+- [RF-DETR](https://github.com/roboflow/rf-detr)
 ## 状态估计
 - [kalmanif](https://github.com/artivis/kalmanif)
 - [FilterPy](https://github.com/rlabbe/filterpy)
