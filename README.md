@@ -92,23 +92,28 @@
 - [🧑‍🔬LLM course](https://github.com/mlabonne/llm-course)
 - [🤖Build a Large Language Model](https://github.com/rasbt/LLMs-from-scratch)
 - [MS Artificial Intelligence for Beginners](https://github.com/microsoft/AI-For-Beginners)
-- [MS Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners)
 - [MIT 6.S191](https://github.com/MITDeepLearning/introtodeeplearning)
 - [CS231n: Deep Learning for Computer Vision](https://cs231n.stanford.edu/)
 - [CS224N: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/index.html)
-- [CS224W: Machine Learning with Graphs](http://web.stanford.edu/class/cs224w/)
 - [CS336: Language Modeling from Scratch](https://stanford-cs336.github.io/spring2025/)
-- [Deep Reinforcement Learning](https://cmudeeprl.github.io/703website_f24/)
 - [Efficient Deep Learning Computing](https://efficientml.ai)
 - [Large Language Model Applications](https://cmu-llms.org/)
-- [李宏毅](https://github.com/Fafa-DL/Lhy_Machine_Learning)  [强化学习](https://www.youtube.com/playlist?list=PLJV_el3uVTsODxQFgzMzPLa16h6B8kWM_) [课件](https://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html)
-- [6.S183](https://www.practical-diffusion.org/lectures/)
-- [6.S184](https://diffusion.csail.mit.edu/2026/index.html)
-- [David Silver's Reinforcement Learning](https://davidstarsilver.wordpress.com/teaching/)
-- [UCB Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/)
-- [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl)
-- [DeepMind+UCL Reinforcement Learning](https://github.com/enggen/DeepMind-Advanced-Deep-Learning-and-Reinforcement-Learning)
+- [CS224W: Machine Learning with Graphs](http://web.stanford.edu/class/cs224w/)
 - [Foundations of Deep Learning](http://www.cs.umd.edu/class/spring2024/cmsc720/)
+### 强化学习
+  - [李宏毅](https://github.com/Fafa-DL/Lhy_Machine_Learning)  [强化学习](https://www.youtube.com/playlist?list=PLJV_el3uVTsODxQFgzMzPLa16h6B8kWM_) [课件](https://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html)
+  - [David Silver's Reinforcement Learning](https://davidstarsilver.wordpress.com/teaching/)
+  - [UCB Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/)
+  - [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl)
+  - [DeepMind+UCL Reinforcement Learning](https://github.com/enggen/DeepMind-Advanced-Deep-Learning-and-Reinforcement-Learning)
+  - [10-703 Deep RL](https://cmudeeprl.github.io/703website_f25/)
+### 扩散模型
+  - [MS Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners)
+  - [Deep Generative Models](https://kuleshov-group.github.io/dgm-website)
+  - [CMU 10-799](https://kellyyutonghe.github.io/10799S26/)
+  - [6.S183](https://www.practical-diffusion.org/lectures/)
+  - [6.S184](https://diffusion.csail.mit.edu/2026/index.html)
+
 ## 应用AI
 ### 提示词
 - [Prompt Engineering Guide](https://www.promptingguide.ai/)
@@ -221,7 +226,7 @@
 - [invariant-ekf](https://github.com/RossHartley/invariant-ekf)
 - [EKF Comparison](https://github.com/ami-iit/paper_ramadoss-2022-iros-humanoid-base-estimation)
 ### 仿真
-- [Webots](https://cyberbotics.com/)
-- [Hector](https://mujoco.org/)
+- [IsaacLab](https://isaac-sim.github.io/IsaacLab/main/index.html)
+- [MuJoCo](https://mujoco.readthedocs.io/en/stable/overview.html)
 ## 编程
 - [IceCream — Never use print() to debug again](https://github.com/gruns/icecream)
