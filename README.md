@@ -23,7 +23,6 @@
 - [SageMath Graph Theory](https://doc.sagemath.org/html/en/reference/graphs/index.html)
 - [GraphTea](http://graphtheorysoftware.com/)
 - [D3 Graph Theory](https://d3gt.com/unit.html)
-- [Optimal Transport Tools](https://ott-jax.readthedocs.io/)
 ## 课程
 - [PYDDG](https://www.discretization.de/pyddg/doc/v0.4.2/examples/) [code](https://github.com/BjoernLudwig/tu_visualization)
 - [Riemannian Geometry](https://bimsa.net/activity/riemannian/)
@@ -38,7 +37,7 @@
 - [M2](https://macaulay2.com/)
 - Lean [Natural Number Game](https://adam.math.hhu.de/#/g/leanprover-community/nng4) [C99](https://web.stanford.edu/class/cs99/)
 - [Python Optimal Transport](https://pythonot.github.io/)
-## 网格
+- [Optimal Transport Tools](https://ott-jax.readthedocs.io/)
 - [Penner Coordinates](http://ryanjcapouellez.com/)
 # 物理
 - [The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu/info/)
