@@ -201,7 +201,6 @@
 - [PoseLib](https://github.com/PoseLib/PoseLib)
 - [Basalt](https://github.com/VladyslavUsenko/basalt-mirror)
 - [Kornia](https://kornia.readthedocs.io/en/latest/index.html)
-- [colmap/glomap+RoMo](https://github.com/colmap/glomap)
 - [Pixel-Perfect Structure-from-Motion](https://github.com/cvg/pixel-perfect-sfm)
 - [XM](https://computationalrobotics.seas.harvard.edu/XM/)
 - [MASt3R](https://github.com/naver/mast3r)
