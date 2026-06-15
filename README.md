@@ -37,6 +37,7 @@
 - [SageManifolds](https://sagemanifolds.obspm.fr/examples.html)
 - [M2](https://macaulay2.com/)
 - Lean [Natural Number Game](https://adam.math.hhu.de/#/g/leanprover-community/nng4) [C99](https://web.stanford.edu/class/cs99/)
+- [Python Optimal Transport](https://pythonot.github.io/)
 ## 网格
 - [Penner Coordinates](http://ryanjcapouellez.com/)
 # 物理
