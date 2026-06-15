@@ -111,6 +111,7 @@
   - [MS Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners)
   - [Deep Generative Models](https://kuleshov-group.github.io/dgm-website)
   - [CMU 10-799](https://kellyyutonghe.github.io/10799S26/)
+  - [6.S978 Deep Generative Models](https://mit-6s978.github.io/schedule.html)
   - [6.S183](https://www.practical-diffusion.org/lectures/)
   - [6.S184](https://diffusion.csail.mit.edu/2026/index.html)
 
