@@ -223,9 +223,10 @@
 - [MIT Cheetah](https://github.com/mit-biomimetics/Cheetah-Software)
 - [Spot Micro Quadruped Project](https://github.com/mike4192/spotMicro)
 - [OCS2 Toolbox](https://github.com/leggedrobotics/ocs2)
-### 状态估计
+### 状态/姿态估计
 - [invariant-ekf](https://github.com/RossHartley/invariant-ekf)
 - [EKF Comparison](https://github.com/ami-iit/paper_ramadoss-2022-iros-humanoid-base-estimation)
+- [FoundationPose](https://github.com/NVlabs/FoundationPose)
 ### 仿真
 - [IsaacLab](https://isaac-sim.github.io/IsaacLab/main/index.html)
 - [MuJoCo](https://mujoco.readthedocs.io/en/stable/overview.html)
