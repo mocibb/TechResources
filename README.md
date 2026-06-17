@@ -115,7 +115,6 @@
   - [6.S978 Deep Generative Models](https://mit-6s978.github.io/schedule.html)
   - [6.S183](https://www.practical-diffusion.org/lectures/)
   - [6.S184](https://diffusion.csail.mit.edu/2026/index.html)
-
 ## 应用AI
 ### 提示词
 - [Prompt Engineering Guide](https://www.promptingguide.ai/)
@@ -141,6 +140,7 @@
 - [einops](https://einops.rocks/)
 - [triton](https://triton-lang.org/main/index.html) [triton-resources](https://github.com/rkinas/triton-resources)
 - [unsloth](https://github.com/unslothai/unsloth)
+- [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 - [The Annotated Transformer](https://nlp.seas.harvard.edu/annotated-transformer/)
 - [transformer-explainer](https://poloclub.github.io/transformer-explainer/) [LLM Visualization](https://bbycroft.net/llm)
 - Illustrated [Transformer](https://jalammar.github.io/illustrated-transformer/) [GPT2](https://jalammar.github.io/illustrated-gpt2/)
