@@ -140,7 +140,6 @@
 - [einops](https://einops.rocks/)
 - [triton](https://triton-lang.org/main/index.html) [triton-resources](https://github.com/rkinas/triton-resources)
 - [unsloth](https://github.com/unslothai/unsloth)
-- [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 - [The Annotated Transformer](https://nlp.seas.harvard.edu/annotated-transformer/)
 - [transformer-explainer](https://poloclub.github.io/transformer-explainer/) [LLM Visualization](https://bbycroft.net/llm)
 - Illustrated [Transformer](https://jalammar.github.io/illustrated-transformer/) [GPT2](https://jalammar.github.io/illustrated-gpt2/)
