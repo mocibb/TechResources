@@ -148,7 +148,6 @@
 - [NanoGPT](https://github.com/KellerJordan/modded-nanogpt)
 - [Agent Browser](https://github.com/vercel-labs/agent-browser)
 ### AI模型
-- [GH Models](https://github.com/marketplace/models)
 - [arena.ai](https://arena.ai/)
 - [xybbz](sub2api.xybbz.xyz)
 ### Spec
