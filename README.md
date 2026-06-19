@@ -118,7 +118,7 @@
 ### 具身智能
   - [Robot Learning](https://cvg.ethz.ch/lectures/Robot-Learning)
   - [Modern Robot Learning](https://modern-robot-learning.github.io)
-  - CMU 16-831[25](https://16-831.github.io/fall25/) [26](https://sites.google.com/view/16-831-cmu/)
+  - CMU 16-831 [25](https://16-831.github.io/fall25/) [26](https://sites.google.com/view/16-831-cmu/)
 ### 实践课程
   - [MIT Hands-On Deep Learning](https://ocw.mit.edu/courses/15-773-hands-on-deep-learning-spring-2024/)
   - [MIT Introduction to Data-Centric AI](https://dcai.csail.mit.edu/)
