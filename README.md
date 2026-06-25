@@ -94,7 +94,6 @@
 - [MIT TinyML](https://efficientml.ai)
 - [CMU 11-785](https://deeplearning.cs.cmu.edu/S25/index.html)
 - [CMU Machine Learning in Production](https://mlip-cmu.github.io/)
-- [Foundations of Deep Learning](http://www.cs.umd.edu/class/spring2024/cmsc720/)
 ### LLM
   - [🧑‍🔬LLM course](https://github.com/mlabonne/llm-course)
   - [🤖Build a Large Language Model](https://github.com/rasbt/LLMs-from-scratch)
@@ -119,6 +118,9 @@
   - [Robot Learning](https://cvg.ethz.ch/lectures/Robot-Learning)
   - [Modern Robot Learning](https://modern-robot-learning.github.io)
   - CMU 16-831 [25](https://16-831.github.io/fall25/) [26](https://sites.google.com/view/16-831-cmu/)
+### 深度学习理论
+  - [Deep learning theory lecture notes](https://mjt.cs.illinois.edu/dlt/)
+  - [Foundations of Deep Learning](http://www.cs.umd.edu/class/spring2024/cmsc720/)
 ### 实践课程
   - [MIT Hands-On Deep Learning](https://ocw.mit.edu/courses/15-773-hands-on-deep-learning-spring-2024/)
   - [MIT Introduction to Data-Centric AI](https://dcai.csail.mit.edu/)
