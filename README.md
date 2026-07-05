@@ -238,5 +238,7 @@
 ### 仿真
 - [IsaacLab](https://isaac-sim.github.io/IsaacLab/main/index.html)
 - [MuJoCo](https://mujoco.readthedocs.io/en/stable/overview.html)
+### 映射关系
+- [Motion Retargeting](https://github.com/YanjieZe/GMR)
 ## 编程
 - [IceCream — Never use print() to debug again](https://github.com/gruns/icecream)
