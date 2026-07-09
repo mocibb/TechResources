@@ -217,6 +217,8 @@
 - [RF-DETR](https://github.com/roboflow/rf-detr)
 - [hloc](https://github.com/cvg/Hierarchical-Localization)
 - [DPVO](https://github.com/princeton-vl/DPVO)
+## 毫米波
+- [awesome-mmwave-sensing](https://github.com/phish-tech/awesome-mmwave-sensing)
 ## 状态估计
 - [kalmanif](https://github.com/artivis/kalmanif)
 - [FilterPy](https://github.com/rlabbe/filterpy)
