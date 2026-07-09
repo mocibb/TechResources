@@ -215,6 +215,7 @@
 - [XM](https://computationalrobotics.seas.harvard.edu/XM/)
 - [MASt3R](https://github.com/naver/mast3r)
 - [RF-DETR](https://github.com/roboflow/rf-detr)
+- [LightGlue⚡️](https://github.com/cvg/lightglue)
 - [hloc](https://github.com/cvg/Hierarchical-Localization)
 - [DPVO](https://github.com/princeton-vl/DPVO)
 ## 毫米波
