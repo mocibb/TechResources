@@ -219,6 +219,10 @@
 - [kalmanif](https://github.com/artivis/kalmanif)
 - [FilterPy](https://github.com/rlabbe/filterpy)
 - [PX4' EKF](https://github.com/PX4/PX4-Autopilot/tree/main/src/modules/ekf2/EKF/python)
+## SLAM
+- [hloc](https://github.com/cvg/Hierarchical-Localization)
+- [basalt](https://github.com/VladyslavUsenko/basalt)
+- [DPVO](https://github.com/princeton-vl/DPVO)
 ## 无人机
 - [Introduction to Aerial Robotics: Online Textbook](https://www.autonomousrobotslab.com/online-textbook.html)
 - [MIT 16.333](https://ocw.mit.edu/courses/16-333-aircraft-stability-and-control-fall-2004/)
