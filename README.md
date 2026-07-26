@@ -222,6 +222,7 @@
 ## SLAM
 - [Point-LIO](https://github.com/hku-mars/Point-LIO)
 - [small_gicp](https://github.com/koide3/small_gicp)
+- [KISS-Matcher](https://github.com/MIT-SPARK/KISS-Matcher)
 ## 毫米波
 - [awesome-mmwave-sensing](https://github.com/phish-tech/awesome-mmwave-sensing)
 ## 状态估计
