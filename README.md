@@ -219,6 +219,8 @@
 - [hloc](https://github.com/cvg/Hierarchical-Localization)
 - [DPVO](https://github.com/princeton-vl/DPVO)
 - [EPO](https://github.com/mattiadurso/EPO)
+## SLAM
+- [Point-LIO](https://github.com/hku-mars/Point-LIO)
 ## 毫米波
 - [awesome-mmwave-sensing](https://github.com/phish-tech/awesome-mmwave-sensing)
 ## 状态估计
