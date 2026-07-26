@@ -221,6 +221,7 @@
 - [EPO](https://github.com/mattiadurso/EPO)
 ## SLAM
 - [Point-LIO](https://github.com/hku-mars/Point-LIO)
+- [small_gicp](https://github.com/koide3/small_gicp)
 ## 毫米波
 - [awesome-mmwave-sensing](https://github.com/phish-tech/awesome-mmwave-sensing)
 ## 状态估计
