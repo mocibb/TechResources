@@ -208,6 +208,7 @@
 ## 视觉
 - [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
 - [Kalibr](https://github.com/ethz-asl/kalibr)
+- [Spectacular AI](https://spectacularai.github.io/docs/sdk/tools/calibration.html)
 - [PoseLib](https://github.com/PoseLib/PoseLib)
 - [Basalt](https://github.com/VladyslavUsenko/basalt-mirror)
 - [Kornia](https://kornia.readthedocs.io/en/latest/index.html)
