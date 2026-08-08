@@ -10,6 +10,9 @@
 - [线性代数的本质](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - [A Vision of Linear Algebra](https://ocw.mit.edu/courses/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/) [Graphic notes](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra)
 - [Linear Algebra Done Right](https://linear.axler.net/) [lean4](https://adam.math.hhu.de/#/g/zrtmrh/linearalgebragame)
+## 概率
+- [CS109: Probability for Computer Scientists](https://web.stanford.edu/class/cs109/)
+- MIT [6.041/6.431](https://ocw.mit.edu/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/)
 ## 拓扑和几何
 - [Jeff Weeks’ Topology and Geometry Software](https://www.geometrygames.org/)
 - [Applied Algebraic Topology Research Network](https://www.aatrn.net/home)
