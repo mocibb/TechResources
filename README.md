@@ -257,6 +257,8 @@
 - [MuJoCo](https://mujoco.readthedocs.io/en/stable/overview.html)
 - [Rerun](https://rerun.io/)
 - [Foxglove](https://foxglove.dev)
+### 机械
+- [Onshape](https://cad.onshape.com/)
 ### 映射关系
 - [Motion Retargeting](https://github.com/YanjieZe/GMR)
 ## 编程
