@@ -46,6 +46,7 @@
 - [The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu/info/)
 - [The Theoretical Minimum](https://theoreticalminimum.com/)
 - [How to become a GOOD Theoretical Physicist](https://www.goodtheorist.science/index.html)
+- [Electromagnetics and Applications](https://ocw.mit.edu/courses/6-013-electromagnetics-and-applications-spring-2009/)
 # 计算机
 - [Open Source Society University](https://github.com/ossu/computer-science)
 - [cs自学指南](https://csdiy.wiki/)
