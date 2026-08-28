@@ -238,6 +238,8 @@
 ## 无人机
 - [Introduction to Aerial Robotics: Online Textbook](https://www.autonomousrobotslab.com/online-textbook.html)
 - [MIT 16.333](https://ocw.mit.edu/courses/16-333-aircraft-stability-and-control-fall-2004/)
+### 小工具
+- [PIDtoolbox](https://github.com/ianrmurphy/PIDtoolbox)
 ## 机器人 
 ### 电机
 - [SimpleFOClibrary](https://github.com/simplefoc/Arduino-FOC)
