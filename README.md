@@ -240,8 +240,6 @@
 ## 无人机
 - [Introduction to Aerial Robotics: Online Textbook](https://www.autonomousrobotslab.com/online-textbook.html)
 - [MIT 16.333](https://ocw.mit.edu/courses/16-333-aircraft-stability-and-control-fall-2004/)
-### 小工具
-- [PIDtoolbox](https://github.com/ianrmurphy/PIDtoolbox)
 ## 机器人 
 ### 电机
 - [SimpleFOClibrary](https://github.com/simplefoc/Arduino-FOC)
@@ -255,6 +253,7 @@
 ### 状态/姿态估计
 - [invariant-ekf](https://github.com/RossHartley/invariant-ekf)
 - [EKF Comparison](https://github.com/ami-iit/paper_ramadoss-2022-iros-humanoid-base-estimation)
+- [PIDtoolbox](https://github.com/ianrmurphy/PIDtoolbox)
 - [FoundationPose](https://github.com/NVlabs/FoundationPose)
 ### 仿真
 - [IsaacLab](https://isaac-sim.github.io/IsaacLab/main/index.html)
