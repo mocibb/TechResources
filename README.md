@@ -205,6 +205,8 @@
 ## 音频
 - [Audio Signal Processing for Music Applications](https://www.coursera.org/learn/audio-signal-processing)
 - [Fundamentals of Music Processing](https://github.com/meinardmueller/libfmp)
+## 信号处理
+- [火龙果](https://redpitaya.com/documentation/)
 ## 控制
 - [Control Tutorials](https://ctms.engin.umich.edu/CTMS/index.php?aux=Home)
 - [CMU TinyMPC](https://tinympc.org/)
