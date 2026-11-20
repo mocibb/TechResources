@@ -185,7 +185,7 @@
 - [PySDR](https://pysdr.org/)
 - [Complex To Real](https://complextoreal.com/tutorials/)
 - [Software Defined Radio using MATLAB & Simulink and the RTL-SDR](https://www.desktopsdr.com/)
-- [Universal Radio Hacker](https://github.com/jopohl/urh)
+- [Universal Radio Hacker](https://github.com/PentHertz/urh-ng)
 - [rtl_433](https://triq.org/rtl_433/)
 - [Introduction to Wireless Communications](https://www.youtube.com/playlist?list=PLi2gZdKUQKQnutD_4xzrtOxaBnL0bQMF_)
 ## 音频
