@@ -31,7 +31,7 @@
 - [Riemannian Geometry](https://bimsa.net/activity/riemannian/)
 - [One-Dimensional Computational Topology](https://jeffe.cs.illinois.edu/teaching/comptop/2023/)
 - [Lie groups and Lie algebras](http://jde27.uk/lgla/info.html)
-- [Topology and Groups](http://www.homepages.ucl.ac.uk/~ucahjde/tg/html/index.html)
+- [Topology and Groups](https://jde27.uk/tg/)
 - [The Geometry of Differential Forms](http://sites.science.oregonstate.edu/physics/coursewikis/GDF/)
 ## 数学软件
 - Wolfram [文档](https://reference.wolfram.com/language/index.html.zh) [Alpha](https://www.wolframalpha.com/) [Demonstrations](https://demonstrations.wolfram.com/)
