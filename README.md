@@ -136,14 +136,6 @@
 - [Anthropic's Prompt engineering overview](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/overview)
 - [Anthropic's Prompt Engineering Interactive Tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)
 - [ChatGPT Prompt Engineering for Developers](https://learn.deeplearning.ai/courses/chatgpt-prompt-eng)
-### Agent
-- [AI Agents for Beginners](https://learn.microsoft.com/en-us/shows/ai-agents-for-beginners/)
-- [Agentic AI](https://learn.deeplearning.ai/courses/agentic-ai)
-- [AI Agents in LangGraph](https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/)
-- [Multi AI Agent Systems with crewAI](https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/)
-- [Awesome Agentic Patterns](https://github.com/nibzard/awesome-agentic-patterns)
-- [Awesome Agent Skills](https://github.com/heilcheng/awesome-agent-skills)
-- [Large Language Model Agents](https://rdi.berkeley.edu/llm-agents/f24)
 ### AI工具
 - [中文大模型评测](https://github.com/jeinlee1991/chinese-llm-benchmark)
 - [BertViz](https://github.com/jessevig/bertviz)
